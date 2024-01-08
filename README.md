@@ -31,7 +31,11 @@
 > #### - 결국 Google Colab 파일 탭에서 "GitHub에 사본 저장" 기능을 사용하여 GitHub "Stock" repository에 내용을 업로드하였음  
 > #### - 추후 Python toy-project 시 GitHub 연동에 재도전할 예정임  
 
-###
+<br/>
+
+### 🎁 References
+> [데이터 분석 관련 GitHub 페이지](https://github.com/Kim-src/Stock-Information)
+> FastCampus의 Selena 강사님 강의  
 
 <br/>
 
@@ -83,6 +87,11 @@
 
 ### Q6. Package를 현재 클래스에 포함시킬 때 필요한 명령어는 무엇입니까?
 > import  
+
+<br/>
+
+### 🎁 References
+> FastCampus의 박매일 강사님 강의  
 
 <br/>
 

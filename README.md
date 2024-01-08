@@ -1,9 +1,12 @@
+<!-- Update Date -->
 #### Date : January 8, 2024
 
+<!-- Title -->
 # ✅ Python
 
 <br/>
 
+<!-- Contents -->
 ### 🔔 데이터 분석 : 라이브러리 활용
 > #### 1. 웹 데이터 분석 시 활용되는 BeautifulSoup 및 Pandas 라이브러리의 장단점 비교  
 > #### 2. 라이브러리 비교 테스트 한 결과를 깃허브에 연동 시도  
@@ -38,12 +41,15 @@
 <br/>
 <br/>
 
+<!-- Update Date -->
 #### Date : January 7, 2024
 
+<!-- Title -->
 # ✅ Java
 
 <br/>
 
+<!-- Contents -->
 ### 📌 강의 내용 요약 : 객체에 접근하는 권한 이해하기  
 
 <br/>

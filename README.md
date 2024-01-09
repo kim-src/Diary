@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Contents -->
-### 📌 Setter & Getter Methods
+### 🔔 Setter & Getter Methods
 > - Java에서 class의 상태정보 권한은 일반적으로 private 상태로 설계됨
 > - 따라서 데이터를 저장할 때 public 상태의 setter method를 사용해야 class가 활용됨
 > - 저장된 데이터는 public 상태의 getter method를 사용해야 추출 또는 출력됨
@@ -15,17 +15,23 @@
 
 <br/>
 
-### 📌 Difference between Class & Array 1
-> - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
-> - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
+### 🔔 Differences between Class & Array
+>
+> <br/>
+>
+> #### 📌 Difference 1
+>> - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
+>> - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
+> #### 📌 Difference 2
+>> - class의 경우 설계(모델링)로 데이터를 구조화 함
+>> - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
+> #### 📌 Difference 3
+>> - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
+>> - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
 
-### 📌 Difference between Class & Array 2
-> - class의 경우 설계(모델링)로 데이터를 구조화 함
-> - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
+<br/>
 
-### 📌 Difference between Class & Array 3
-> - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
-> - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
+
 
 <br/>
 

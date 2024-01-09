@@ -21,7 +21,7 @@
 <br/>
 
 ### 🎁 References
-> - [GitHub URL](https://github.com/Kim-src/Stock-Information)
+> - [GitHub URL of Toy-PJT](https://github.com/Kim-src/Stock-Information)
 > - [Velog URL](https://velog.io/@kim-src/stock-information)
 > - [LinkedIn URL](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
 > - FastCampus의 박매일 강사님 강의  

@@ -65,7 +65,7 @@
 <br/>
 
 <!-- Contents -->
-### 📌 Project Progress
+### 🔔 Project Progress
 > - 2023-12-15 Cavity Detection Model (CDM) PJT 시작
 > - 2024-01-09 CDM에 첫 이미지 학습 완료
 > - 추후 이미지 학습 과정에 대한 검토 진행 예정

@@ -34,7 +34,7 @@
 <br/>
 
 ### 🎁 References
-> - [Python 활용한 데이터 분석 toy-PJT](https://github.com/Kim-src/Stock-Information)  
+> - [Python을 활용한 데이터 분석 toy-PJT](https://github.com/Kim-src/Stock-Information)  
 > - FastCampus의 Selena 강사님 강의  
 
 <br/>

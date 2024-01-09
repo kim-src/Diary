@@ -47,7 +47,7 @@
 
 <br/>
 
-### 🚀 잘 설계된 VO 클래스 예시
+### 🚀 잘 설계된 Java VO 클래스 예시
 ``` Java
 
 package kim.java.model;
@@ -108,6 +108,10 @@ public class PersonVO {
 }
 
 ```
+
+<br/>
+
+[🚀 잘 설계된 Java VO 클래스 설명](https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4)
 
 <br/>
 

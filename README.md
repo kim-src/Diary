@@ -7,6 +7,36 @@
 <br/>
 
 <!-- Contents -->
+### 📌 Setter & Getter Methods
+> - Java에서 class의 상태정보 권한은 일반적으로 private 상태로 설계됨
+> - 따라서 데이터를 저장할 때 public 상태의 setter method를 사용해야 class가 활용됨
+> - 저장된 데이터는 public 상태의 getter method를 사용해야 추출 또는 출력됨
+> - 한편 생성자 method를 이용하여 해당 class의 초기 상태 정보를 설계할 수 있음
+
+<br/>
+
+### 📌 Difference of Class & Array 1
+> - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
+> - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
+
+### 📌 Difference of Class & Array 2
+> - class의 경우 설계(모델링)로 데이터를 구조화 함
+> - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
+
+### 📌 Difference of Class & Array 3
+> - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
+> - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
+
+<br/>
+
+<!-- Title -->
+# ✅ Python
+
+<br/>
+
+<!-- Contents -->
+### 📌 Parsing
+> - 
 
 <br/>
 
@@ -16,7 +46,21 @@
 <br/>
 
 <!-- Contents -->
-📌 Velog and LinkedIn
+### 📌 Velog and LinkedIn
+> - 2024-01-08 작업했던 데이터 분석 toy project 결과 내용을 벨로그 및 링크드인에 업로드 함
+> - References란에 관련 링크를 작성함
+
+<br/>
+
+### 📌 Kaggle DataSets
+> - 캐글 사이트에서 데이터셋을 발췌하는 방법을 학습함
+> - 넷플릭스, 디즈니 데이터를 활용하여 Word Cloud 등을 제작함
+
+<br/>
+
+### 📌 TTA
+> - 한국정보통신기술협회(TTA)에서 제작한 정보통신용어 사전의 존재를 인지함
+> - 정보통신 관련 용어 학습 시 요긴하게 사용될 가능성이 있음
 
 <br/>
 
@@ -24,7 +68,9 @@
 > - [GitHub URL on Toy-PJT](https://github.com/Kim-src/Stock-Information)
 > - [Velog URL on Toy-PJT](https://velog.io/@kim-src/stock-information)
 > - [LinkedIn URL on Toy-PJT](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
-> - FastCampus의 박매일 강사님 강의  
+> - [Kaggle DataSets](https://www.kaggle.com/datasets?topic=trendingDataset)
+> - [TTA Dictionary](http://word.tta.or.kr/main.do)
+> - FastCampus의 박매일 강사님 강의
 
 <br/>
 

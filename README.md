@@ -17,29 +17,43 @@
 
 ### 🔔 Differences between Class & Array
 
-> #### 📌 Difference 1
->> - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
->> - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
-> #### 📌 Difference 2
->> - class의 경우 설계(모델링)로 데이터를 구조화 함
->> - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
-> #### 📌 Difference 3
->> - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
->> - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
+<br/>
+
+### 📌 Difference 1
+> - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
+> - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
+
+<br/>
+
+### 📌 Difference 2
+> - class의 경우 설계(모델링)로 데이터를 구조화 함
+> - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
+
+<br/>
+
+### 📌 Difference 3
+> - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
+> - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
 
 <br/>
 
 ### 🔔 잘 설계된 VO 클래스
+
+<br/>
 
 ### 📌 Java의 데이터 모델은 크게 세 가지로 구분된다.
 1. VO : Value Object, DTO : Data Transfer Object
 2. DAO : Data Access Object
 3. Utility : VO, DTO, DAO가 아닌 모델이며 정식 명칭은 없음
 
+<br/>
+
 ### 📌 각 데이터 모델에 대한 한 줄 설명은 아래와 같다.
 1. VO 및 DTO : 데이터를 일괄적으로 이동시킬 때 사용됨
 2. DAO : 데이터를 DB와 연결시킬 때 사용됨
 3. Utility : 한국어 사용을 위한 UTF-8 등을 설정하는 등 보조 역할임
+
+<br/>
 
 ### 📌 이때 잘 설계된 VO 및 DTO 모델을 설계하는 방법은 아래와 같다.
 > #### 1. 입력

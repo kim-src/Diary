@@ -15,15 +15,15 @@
 
 <br/>
 
-### 📌 Difference of Class & Array 1
+### 📌 Difference between Class & Array 1
 > - class는 여러 종류의 데이터 자료형으로 구성된 이질적인 구조의 데이터 객체(object)임
 > - array는 한 종류의 데이터 자료형으로 구성된 동일한 구조의 데이터 객체(object)임
 
-### 📌 Difference of Class & Array 2
+### 📌 Difference between Class & Array 2
 > - class의 경우 설계(모델링)로 데이터를 구조화 함
 > - array의 경우 java에서 제공하는 기본 문법인 대괄호 [ ]를 사용하여 데이터를 구조화 함
 
-### 📌 Difference of Class & Array 3
+### 📌 Difference between Class & Array 3
 > - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
 > - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
 

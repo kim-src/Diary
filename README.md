@@ -25,7 +25,7 @@
 
 <br/>
 
-### 🐱‍ GitHub 연동
+### 🚀 GitHub 연동
 > - "Google Colab 내 Python code" 및 "GitHub repository" 연동 실패  
 > - GitHub repository 연동을 위한 코드 입력을 다양하게 시도해봤지만 일반적인 터미널에 입력하는 방식과는 상이한 느낌이었음  
 > - 결국 Google Colab 파일 탭에서 "GitHub에 사본 저장" 기능을 사용하여 GitHub "Stock" repository에 내용을 업로드하였음  

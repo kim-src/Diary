@@ -14,7 +14,6 @@
 > - 한편 생성자 method를 이용하여 해당 class의 초기 상태 정보를 설계할 수 있음
 
 <br/>
-<br/>
 
 ### 🔔 Differences between Class & Array
 ### 📌 Difference 1
@@ -27,7 +26,6 @@
 > - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
 > - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
 
-<br/>
 <br/>
 
 ### 🔔 잘 설계된 VO 클래스
@@ -116,21 +114,20 @@ public class PersonVO {
 [🚀 잘 설계된 Java VO 클래스 설명](https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4)
 
 <br/>
-<br/>
 
 ### 📌 강의 내용 요약 : 잘 설계된 VO 클래스(객체)
 
 <br/>
 
-### Q1. 다른 객체에서 자신의 정보를 숨기고 클래스 외부에서 특정 정보에 대한 접근을 막는다는 것을 무엇이라고 합니까?
+#### Q1. 다른 객체에서 자신의 정보를 숨기고 클래스 외부에서 특정 정보에 대한 접근을 막는다는 것을 무엇이라고 합니까?
 > - Information Hiding
-### Q2. 은닉된 정보에 접근하는 방법 중 값을 저장하는 메서드를 무엇이라고 합니까?
+#### Q2. 은닉된 정보에 접근하는 방법 중 값을 저장하는 메서드를 무엇이라고 합니까?
 > - Setter Method
-### Q3. 은닉된 정보에 접근하는 방법 중 값을 얻어오는 메서드를 무엇이라고 합니까?
+#### Q3. 은닉된 정보에 접근하는 방법 중 값을 얻어오는 메서드를 무엇이라고 합니까?
 > - Getter Method
-### Q4. 은닉된 정보에 접근하는 ㅂ아법 중 객체 초기화를 통해 접근하는 메서드를 무엇이라고 합니까?
+#### Q4. 은닉된 정보에 접근하는 ㅂ아법 중 객체 초기화를 통해 접근하는 메서드를 무엇이라고 합니까?
 > - Constructor Method
-### Q5. 객체가 가지고 있는 값 전체를 문자열 형태로 넘겨주기 위한 메서드를 무엇이라고 합니까?
+#### Q5. 객체가 가지고 있는 값 전체를 문자열 형태로 넘겨주기 위한 메서드를 무엇이라고 합니까?
 > - toString()
 
 <br/>
@@ -254,7 +251,6 @@ public class PersonVO {
 > #### ❌ 단점 : Parsing 기능이 없기(?) 때문에 HTML 코드가 잘 구분되어 있지 않은 웹 페이지의 경우 데이터 추출이 온전하게 되지 않음  
 
 <br/>
-<br/>
 
 ### 🚀 GitHub 연동
 > - "Google Colab 내 Python code" 및 "GitHub repository" 연동 실패  
@@ -289,19 +285,19 @@ public class PersonVO {
 
 <br/>
 
-### Q1. 자바에서 객체에 접근할 때 사용하는 접근제한자(Access Modifier) 4가지는 무엇입니까?
+#### Q1. 자바에서 객체에 접근할 때 사용하는 접근제한자(Access Modifier) 4가지는 무엇입니까?
 > - public, private, protected, default  
-### Q2. 자바에서 기능이 서로 비슷한 클래스들끼리 모아서 관리를 쉽게 하기 위한 것은 무엇입니까?
+#### Q2. 자바에서 기능이 서로 비슷한 클래스들끼리 모아서 관리를 쉽게 하기 위한 것은 무엇입니까?
 > - package → 보안 설정이 중요하다는 것이 일반 폴더와의 차이
-### Q3. 자바에서 제공하는 package 중 default package는 무엇입니까?
+#### Q3. 자바에서 제공하는 package 중 default package는 무엇입니까?
 > - java.lang  
-### Q4. Class에 접근하는 방법 2자기는 무엇입니까?
+#### Q4. Class에 접근하는 방법 2자기는 무엇입니까?
 > - main class 상단에 import package의 위치 입력  
 > - class 이름 앞에 매번 full name 입력  
-### Q5. 자바에서 제공하는 API 중에서 String class와 Scanner class의 full name은 무엇입니까?
+#### Q5. 자바에서 제공하는 API 중에서 String class와 Scanner class의 full name은 무엇입니까?
 > - String class : java.lang.String  
 > - Scanner class : java.util.Scanner  
-### Q6. Package를 현재 클래스에 포함시킬 때 필요한 명령어는 무엇입니까?
+#### Q6. Package를 현재 클래스에 포함시킬 때 필요한 명령어는 무엇입니까?
 > - import  
 
 <br/>

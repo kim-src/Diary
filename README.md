@@ -47,8 +47,9 @@
 
 <br/>
 
-### 🚀 잘 설계된 VO 클래스
+### 🚀 잘 설계된 VO 클래스 예시
 ``` Java
+
 package kim.java.model;
 
 public class PersonVO {
@@ -56,6 +57,7 @@ public class PersonVO {
     private String name;
     private int age;
     private String phone;
+
 
     // Constructor Method : 기본 생성자 메서드
     // 오버로딩 하려면 기본 생성자 메서드가 있어야 될듯함
@@ -65,6 +67,7 @@ public class PersonVO {
         this.phone = "010-1234-1234";
     }
 
+
     // 생성자 메서드의 오버로딩 예시
     // PsersonVO() 괄호 안에 값 입력하면 자료형이 자동으로 기입됨
     public PersonVO(String name, int age, String phone) {
@@ -72,6 +75,7 @@ public class PersonVO {
         this.age = age;
         this.phone = phone;
     }
+
 
     // Setter Method
     public void setName(String name) {
@@ -84,6 +88,7 @@ public class PersonVO {
         this.phone = phone;
     }
 
+
     // Getter Method
     public String getName() {
         return this.name;
@@ -95,11 +100,13 @@ public class PersonVO {
         return this.phone;
     }
 
+
     // 간편 출력용 toString Method
     public String toString(){
         return name + "\t" + age + "\t" + phone;
     }
 }
+
 ```
 
 <br/>

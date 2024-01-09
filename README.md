@@ -1,4 +1,40 @@
 <!-- Update Date -->
+#### Date : January 9, 2024
+
+<!-- Title -->
+# ✅ Java
+
+<br/>
+
+<!-- Contents -->
+
+<br/>
+
+<!-- Title -->
+# 🚀 Toy Project
+
+<br/>
+
+<!-- Contents -->
+📌 Velog and LinkedIn
+
+<br/>
+
+### 🎁 References
+> - [GitHub URL](https://github.com/Kim-src/Stock-Information)
+> - [Velog URL](https://velog.io/@kim-src/stock-information)
+> - [LinkedIn URL](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
+> - FastCampus의 박매일 강사님 강의  
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
+
+<!-- Update Date -->
 #### Date : January 8, 2024
 
 <!-- Title -->

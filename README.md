@@ -21,9 +21,9 @@
 <br/>
 
 ### 🎁 References
-> - [GitHub URL of Toy-PJT](https://github.com/Kim-src/Stock-Information)
-> - [Velog URL](https://velog.io/@kim-src/stock-information)
-> - [LinkedIn URL](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
+> - [GitHub URL on Toy-PJT](https://github.com/Kim-src/Stock-Information)
+> - [Velog URL on Toy-PJT](https://velog.io/@kim-src/stock-information)
+> - [LinkedIn URL on Toy-PJT](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
 > - FastCampus의 박매일 강사님 강의  
 
 <br/>
@@ -70,7 +70,7 @@
 <br/>
 
 ### 🎁 References
-> - [Python을 활용한 데이터 분석 toy-PJT](https://github.com/Kim-src/Stock-Information)  
+> - [Python을 활용한 데이터 분석 Toy-PJT](https://github.com/Kim-src/Stock-Information)  
 > - FastCampus의 Selena 강사님 강의  
 
 <br/>

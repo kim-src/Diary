@@ -7,7 +7,126 @@
 <br/>
 
 <!-- Contents -->
-### 🔔 dd
+### 🔔 잘 설계된 VO 클래스
+### 📌 IntelliJ에서의 Java class 설계 순서
+> 1. class에 상태 정보(권한 : private) 입력
+> 2. class에 생성자 메서드(constructor method) 입력
+> 3. 마우스 우클릭 후 Generate 클릭
+> 4. Generate 메뉴에서 Constructor 선택 후 오버로딩
+> 5. Generate 메뉴에서 Getter and Setter 선택 후 OK 클릭
+> 6. Generate 메뉴에서 toString() 선택 후 OK 클릭
+> 7. main class 생성 후 인스턴스 변수 생성 후 검토
+
+<br/>
+
+### 🚀 잘 설계된 MovieVO 클래스 설계(1 ~ 6단계)
+``` Java
+
+package kim.java.model;
+
+public class MovieVO {
+
+    private String title;
+    private int date;
+    private String starring;
+    private String type;
+    private int running_time;
+    private int level;
+
+    public MovieVO() {}
+
+    public MovieVO(String title, int date, String starring, String type, int running_time, int level) {
+        this.title = title;
+        this.date = date;
+        this.starring = starring;
+        this.type = type;
+        this.running_time = running_time;
+        this.level = level;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public int getDate() {
+        return date;
+    }
+
+    public void setDate(int date) {
+        this.date = date;
+    }
+
+    public String getHero() {
+        return starring;
+    }
+
+    public void setHero(String hero) {
+        this.starring = hero;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public int getRunning_time() {
+        return running_time;
+    }
+
+    public void setRunning_time(int running_time) {
+        this.running_time = running_time;
+    }
+
+    public int getLevel() {
+        return level;
+    }
+
+    public void setLevel(int level) {
+        this.level = level;
+    }
+
+    @Override
+    public String toString() {
+        return "MovieVO{" +
+                "title='" + title + '\'' +
+                ", date=" + date +
+                ", starring='" + starring + '\'' +
+                ", type='" + type + '\'' +
+                ", running_time=" + running_time +
+                ", level=" + level +
+                '}';
+    }
+}
+
+```
+
+<br/>
+
+### 🚀 잘 설계된 MovieVO 클래스 검토(7단계)
+``` Java
+
+package kim.java.part3;
+import kim.java.model.MovieVO;
+
+public class BestVOModeling {
+    public static void main(String[] args) {
+
+        MovieVO vo = new MovieVO("Avatar: The Way of Water", 20221214, "Sam Worthington", "Action", 192, 12);
+        System.out.print(vo);
+
+    }
+}
+
+```
+
+<br/>
 
 ### 🎁 References
 > -

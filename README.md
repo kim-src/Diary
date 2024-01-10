@@ -183,7 +183,7 @@ public class BestVOModeling {
 >> - Call Stack Frame Area / Stack Area / Stack Memory
 
 #### Q3. 객체 생성을 막는 방법은 무엇입니까?
-- 생성자 메서드의 권한을 private으로 변경
+> - 생성자 메서드의 권한을 private으로 변경
 
 #### Q4. JVM의 메모리 공간 4가지는 무엇입니까?
 > 1. Method Area

@@ -128,6 +128,32 @@ public class BestVOModeling {
 
 <br/>
 
+### 📌 JVM 이해
+> - JVM : Java Virtual Machine
+> - 4가지의 메모리 공간
+>> Method Area
+>> Heap Area
+>> Stack Area
+>> Literal Pool
+
+<br/>
+
+### 📌 Static 이해
+> - static 있으면 class method
+> - static 없으면 instance method
+> - static 있으면 기울임체로 자동 표기
+> - 어느 class로부터 사용할 메서드에는 전부 static 입력
+> - class에 static 있으면 생성자 메서드 권한을 private으로 설정
+
+<br/>
+
+### 📌 생성자 메서드 권한 : private
+> - Java에 기본적으로 설계된 System, Math 메서드 등이 예시임
+> - 별도의 new 생성자 메서드 없이 바로 사용할 수 있는 메서드이기 때문임
+> - System, Math 변수 등에 .(연결)을 입력하면 설계된 변수들이 표시됨
+
+<br/>
+
 ### 🎁 References
 > - FastCampus의 박매일 강사님 강의
 

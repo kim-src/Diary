@@ -129,7 +129,7 @@ public class BestVOModeling {
 <br/>
 
 ### 🎁 References
-> -
+> - FastCampus의 박매일 강사님 강의
 
 <br/>
 

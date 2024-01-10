@@ -15,7 +15,7 @@
 > 4. Generate 메뉴에서 Constructor 선택 후 오버로딩
 > 5. Generate 메뉴에서 Getter and Setter 선택 후 OK 클릭
 > 6. Generate 메뉴에서 toString() 선택 후 OK 클릭
-> 7. main class 생성 후 인스턴스 변수 생성 후 검토
+> 7. main class 설계 및 인스턴스 변수 생성 후 검토
 
 <br/>
 

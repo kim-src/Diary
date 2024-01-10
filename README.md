@@ -168,7 +168,7 @@ public class BestVOModeling {
 > - new
 
 #### Q5. 영화 데이터 5편을 저장할 수 있는 객체 배열은 무엇입니까?
-> - MovieVO[] mv = new MovieVO[5];
+> - MovieVO[ ] mv = new MovieVO[5];
 
 <br/>
 

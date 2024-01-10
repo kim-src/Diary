@@ -131,10 +131,10 @@ public class BestVOModeling {
 ### 📌 JVM 이해
 > - JVM : Java Virtual Machine
 > - 4가지의 메모리 공간
->> Method Area
->> Heap Area
->> Stack Area
->> Literal Pool
+>> 1. Method Area
+>> 2. Heap Area
+>> 3. Stack Area
+>> 4. Literal Pool
 
 <br/>
 

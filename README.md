@@ -361,7 +361,8 @@ public class PersonVO {
 
 <br/>
 
-[🚀 잘 설계된 Java VO 클래스 설명](https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4)
+### 🎁 잘 설계된 Java VO 클래스 설명
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4" width="500px"><p/>
 
 <br/>
 

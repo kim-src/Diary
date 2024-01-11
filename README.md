@@ -9,8 +9,30 @@
 #### <p align="right">Date : January 10, 2024<p/>
 
 <!-- Title -->
+# ✅ Spring
 
+<br/>
 
+<!-- Contents -->
+### 🔔 Spring으로 개발하기 위해 필요한 도구들
+> - 통합 개발 환경(IDE; Integrated Development Environment)
+>> - STS : Spring Tool Suite
+>> - IntelliJ : Java, Spring, Spring Boot 등 개발 가능
+> - Java 개발 도구 : JDK (Java Development Kit)
+> - Web Server : Tomcat
+> - Web Browser : Chrome
+> - DBMS (DataBase Management System)
+>> - MySQL (Structured Query Language)
+> - VS Code : Visual Studio Code
+> - Git : 버전 관리용 툴
+> - AWS : Amazon Web Services
+> - Apache Maven : HTTP Server 관련 툴
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/fbfec5ba-5e5b-4545-987a-361fd2808619" width="500px"><p/>
+
+<br/>
+
+### 🎁 References
+> - FastCampus 남궁성 강사님 강의
 
 <br/>
 
@@ -216,7 +238,7 @@ public class BestVOModeling {
 <br/>
 
 ### 🎁 References
-> - FastCampus의 박매일 강사님 강의
+> - FastCampus 박매일 강사님 강의
 
 <br/>
 
@@ -362,7 +384,7 @@ public class PersonVO {
 <br/>
 
 ### 🎁 References
-> - FastCampus의 박매일 강사님 강의
+> - FastCampus 박매일 강사님 강의
 
 <br/>
 
@@ -491,7 +513,7 @@ public class PersonVO {
 
 ### 🎁 References
 > - [Python을 활용한 데이터 분석 Toy-PJT](https://github.com/Kim-src/Stock-Information)  
-> - FastCampus의 Selena 강사님 강의  
+> - FastCampus Selena 강사님 강의  
 
 <br/>
 
@@ -534,7 +556,7 @@ public class PersonVO {
 <br/>
 
 ### 🎁 References
-> - FastCampus의 박매일 강사님 강의  
+> - FastCampus 박매일 강사님 강의  
 
 <br/>
 

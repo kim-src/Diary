@@ -25,16 +25,21 @@
 ### 📌 Tomcat 페이지 로드 과정
 > - Tomcat 9 페이지를 로드시키기 위해서 cmd 명령어 창 실행
 > - 실행창 실행(Win + R) → 명령어 창 실행(cmd 입력)
-> - cmd에 아래와 같은 명령어 입력 후 Enter
+> - cmd에 아래와 같이 "cd + Tomcat 설치 위치" 입력 후 Enter
 ``` cmd
 cd C:\apache-tomcat-9.0.85\bin
 ```
-> - 이후 cmd에 아래와 같은 명령어 입력 후 Enter
+> - 이후 cmd에 Tomcat 실행 명령어 입력 후 Enter
+``` cmd
 startup
 ```
 > - Chrome 주소창에 https://localhost:8080 입력
+> - 아래와 같 정상적인 Tomcat 페이지 로드 확인
+<p align="center"><img src="
 
 <br/>
+
+### 📌 
 
 
 <!-- Update Date -->

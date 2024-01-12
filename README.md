@@ -16,7 +16,13 @@
 <!-- Contents -->
 ### 🔔 Tomcat 페이지 로드 오류
 > - Tomcat 페이지 로드를 위해 Chrome 주소창에 localhost:8080을 입력함
-> - 
+> - 그런데 "사이트에 연결할 수 없음"이라는 오류 페이지만 로드됨
+> - 오류의 원인은 Tomcat 관련 cmd 명령어 창을 종료시켰기 때문임
+> - Tomcat 종료 방법 중 하나가 cmd 명령어 창을 종료시키는 것임
+
+<br/>
+
+### 📌 
 
 <!-- Update Date -->
 #### <p align="right">Date : January 11, 2024<p/>

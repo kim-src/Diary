@@ -35,8 +35,7 @@ startup
 ```
 > - Chrome 주소창에 https://localhost:8080 입력
 > - 아래와 같 정상적인 Tomcat 페이지 로드 확인
-
-<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/163ce9cd-34cf-4231-a0fd-6fcdbc966dec" width="500px></p>
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/163ce9cd-34cf-4231-a0fd-6fcdbc966dec" width="500px"></p>
 
 <br/>
 

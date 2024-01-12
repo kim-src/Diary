@@ -14,7 +14,9 @@
 <br/>
 
 <!-- Contents -->
-
+### 🔔 Tomcat 페이지 로드 오류
+> - Tomcat 페이지 로드를 위해 Chrome 주소창에 localhost:8080을 입력함
+> - 
 
 <!-- Update Date -->
 #### <p align="right">Date : January 11, 2024<p/>

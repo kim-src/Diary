@@ -6,7 +6,7 @@
 <!-- 글 시작 ->
 
 <!-- Update Date -->
-#### <p align="right">Date : January 12, 2024<p/>
+#### <p align="right">Date : January 12, 2024</p>
 
 <!-- Title -->
 # ✅ Spring
@@ -39,11 +39,14 @@ startup
 
 <br/>
 
-### 📌 
+***
 
+<br/>
+<br/>
+<br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 11, 2024<p/>
+#### <p align="right">Date : January 11, 2024</p>
 
 <!-- Title -->
 # ✅ Spring
@@ -64,7 +67,7 @@ startup
 > - Git : 버전 관리용 툴
 > - AWS : Amazon Web Services
 > - Apache Maven : HTTP Server 관련 툴
-<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/fbfec5ba-5e5b-4545-987a-361fd2808619" width="500px"><p/>
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/fbfec5ba-5e5b-4545-987a-361fd2808619" width="500px"></p>
 
 <br/>
 
@@ -80,7 +83,7 @@ startup
 <br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 10, 2024<p/>
+#### <p align="right">Date : January 10, 2024</p>
 
 <!-- Title -->
 # ✅ Java
@@ -286,7 +289,7 @@ public class BestVOModeling {
 <br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 9, 2024<p/>
+#### <p align="right">Date : January 9, 2024</p>
 
 <!-- Title -->
 # ✅ Java
@@ -399,7 +402,7 @@ public class PersonVO {
 <br/>
 
 ### 🎁 잘 설계된 Java VO 클래스 설명
-<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4" width="500px"><p/>
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4" width="500px"></p>
 
 <br/>
 
@@ -515,7 +518,7 @@ public class PersonVO {
 <br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 8, 2024<p/>
+#### <p align="right">Date : January 8, 2024</p>
 
 <!-- Title -->
 # ✅ Python
@@ -562,7 +565,7 @@ public class PersonVO {
 <br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 7, 2024<p/>
+#### <p align="right">Date : January 7, 2024</p>
 
 <!-- Title -->
 # ✅ Java

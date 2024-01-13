@@ -18,17 +18,26 @@
 
 <!-- Contents -->
 ### 🔔 Spring Legacy Project 생성 오류
-> - STS3에서 새로운 Spring MVC Project 생성을 시도하였음
+> - STS 3에서 새로운 Spring MVC Project 생성을 시도하였음
 > - 프로젝트명 입력 후 Next 버튼을 클릭
 > - 그런데 아래와 같은 오류가 발생하였음
 ``` 
 An error has occurred. See error log for more details.
 java.lang.ExceptionInInitializerError
 ```
+> - 오류를 무시하고 넘어갈 수 없으며 다른 오류도 발생됨
 
 <br/>
 
-### 🎯 Spring Legacy Project 생성 오류 해결
+### 🎯 Spring Legacy Project 생성 오류 해결 과정 (1/3)
+> - 오류의 원인은 STS 3와 Java JDK 버전의 호환 문제로 예상됨
+> - 최신 java.lang package 관련 오류 내용으로 해석되었기 때문임
+> - STS3와 호환성이 좋은 Java JDK는 JDK 11 버전임
+> - [JDK 11 다운로드 사이트는 이 문장을 클릭하면 로드됨](https://jdk.java.net/java-se-ri/11-MR2)
+> - 이곳 또는 비슷한 사이트에서 JDK 11을 다운로드 해야됨
+> - 참고로 작성자의 개발 환경은 Window 11 x64임
+
+### 🎯 ### 🎯 Spring Legacy Project 생성 오류 해결 과정 (2/3)
 > - 
 
 <!-- Update Date -->

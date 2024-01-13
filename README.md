@@ -29,8 +29,8 @@ java.lang.ExceptionInInitializerError
 
 <br/>
 
-## 🎯 Spring Legacy Project 생성 오류 해결 과정 (1/3)
-### dd
+### 🎯 Spring Legacy Project 생성 오류 해결 과정 (1/3)
+### 🔑 Java JDK 호환 문제 해결
 > - 오류의 원인은 STS 3와 Java JDK 버전의 호환 문제로 예상됨
 > - 최신 java.lang package 관련 오류 내용으로 해석되었기 때문임
 > - STS3와 호환성이 좋은 Java JDK는 JDK 11 버전임
@@ -41,6 +41,7 @@ java.lang.ExceptionInInitializerError
 <br/>
 
 ### 🎯 Spring Legacy Project 생성 오류 해결 과정 (2/3)
+### 🔑 시스템 환경 변수 편집
 > - 다운로드 받은 JDK 11 zip 파일을 압축 해제
 > - 압축 해제된 폴더를 C 드라이브로 이동
 > - 이동시킨 후 (제어판 → 시스템 속성 → ) 환경 변수 버튼 클릭
@@ -53,6 +54,22 @@ java.lang.ExceptionInInitializerError
 >> 3. 모든 환경 변수 설정을 완료 후 확인 클릭
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/e7551df5-4a94-4323-b763-8120670489aa" width="500px"></p>
 
+<br/>
+
+### 🎯 Spring Legacy Project 생성 오류 해결 과정 (3/3)
+### 🔑 오류 해결 결과 검토
+> - STS 3 실행
+> - File → New → Spring Legacy Project 클릭
+> - Spring MVC Project → Next
+> - Package 구조 입력 페이지로 넘어가면 오류 해결 완료
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/7052a5ab-3a9b-499c-8c26-dba67bc10f45" width="500px"></p>
+
+<br/>
+
+***
+
+<br/>
+<br/>
 <br/>
 
 <!-- Update Date -->

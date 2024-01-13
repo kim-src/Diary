@@ -51,6 +51,7 @@ java.lang.ExceptionInInitializerError
 >>> - 기존 시스템 변수 중 Path 변수를 편집하는 과정임
 >>> - 입력한 JDK Path의 위치는 최상단으로 위치시켜야 됨
 >> 3. 모든 환경 변수 설정을 완료 후 확인 클릭
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/e7551df5-4a94-4323-b763-8120670489aa" width="500px"></p>
 
 <br/>
 

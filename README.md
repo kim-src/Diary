@@ -3,7 +3,33 @@
 > - [작성자의 Velog Blog](https://velog.io/@kim-src/series)
 > - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<!-- 글 시작 ->
+<!-- 글 시작 -->
+<!-- Update Date -->
+<!-- Title -->
+<!-- Contents -->
+
+<!-- Update Date -->
+#### <p align="right">Date : January 13, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
+### 🔔 Spring Legacy Project 생성 오류
+> - STS3에서 새로운 Spring MVC Project 생성을 시도하였음
+> - 프로젝트명 입력 후 Next 버튼을 클릭
+> - 그런데 아래와 같은 오류가 발생하였음
+``` 
+An error has occurred. See error log for more details.
+java.lang.ExceptionInInitializerError
+```
+
+<br/>
+
+### 🎯 Spring Legacy Project 생성 오류 해결
+> - 
 
 <!-- Update Date -->
 #### <p align="right">Date : January 12, 2024</p>
@@ -22,7 +48,7 @@
 
 <br/>
 
-### 📌 Tomcat 페이지 로드 과정
+### 🎯 Tomcat 페이지 로드 오류 해결
 > - Tomcat 9 페이지를 로드시키기 위해서 cmd 명령어 창 실행
 > - 실행창 실행(Win + R) → 명령어 창 실행(cmd 입력)
 > - cmd에 아래와 같이 "cd + Tomcat 설치 위치" 입력 후 Enter
@@ -33,6 +59,7 @@ cd C:\apache-tomcat-9.0.85\bin
 ``` cmd
 startup
 ```
+> - Tomcat 관련 cmd 명령어 창 최소화 버튼 클릭
 > - Chrome 주소창에 https://localhost:8080 입력
 > - 아래와 같 정상적인 Tomcat 페이지 로드 확인
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/163ce9cd-34cf-4231-a0fd-6fcdbc966dec" width="500px"></p>

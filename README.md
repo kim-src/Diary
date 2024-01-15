@@ -18,12 +18,18 @@
 
 <!-- Contents -->
 ### 🔔 STS 3 (Spring Tool Suite 3) 구동 테스트
-### 📌 STS에서 Tomcat 사용
+### 📌 STS 환경에서 Tomcat 활용 과정(오류의 연속)
 > - "No mapping found for HTTP"는 무엇을 의미할지..
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/6e798369-4d5b-4931-87de-eb9a10183dec" width="500px"></p>
 
 > - 영문 모를 이유로 404 코드만 리턴하는 Tomcat..
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/630eda1d-631b-4baf-8686-8799128810e6" width="500px"></p>
+
+> - 이번에는 500 코드를 리턴하는 Tomcat..
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/f096f516-bb09-4d77-bf30-b7a7496bd6b4" width="500px"></p>
+
+> - 드디어 STS 환경에서 Tomcat 실행 성공
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/41fc47ca-0f38-4286-a751-6c693d295668" width="500px"></p>
 
 <br/>
 

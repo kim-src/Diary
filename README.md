@@ -9,6 +9,28 @@
 <!-- Contents -->
 
 <!-- Update Date -->
+#### <p align="right">Date : January 15, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
+### 🔔 STS 3 (Spring Tool Suite 3) 구동 테스트
+### 📌 STS에서 Tomcat 사용
+> - 영문 모를 이유로 404 코드만 리턴하는 Tomcat..
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/630eda1d-631b-4baf-8686-8799128810e6" width="500px"></p>
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
+
+<!-- Update Date -->
 #### <p align="right">Date : January 14, 2024</p>
 
 <!-- Title -->

@@ -70,7 +70,18 @@
 ### 🔔 HTTP 특징
 ### 📌 ㅇㅇ
 
+<br/>
 
+### 🎁 References
+> - FastCampus 남궁성 강사님 강의
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 13, 2024</p>

@@ -20,7 +20,7 @@
 ### 🔔 STS 3 (Spring Tool Suite 3) 구동 테스트
 ### 📌 STS 환경에서 Tomcat 활용 과정(오류의 연속)
 > ☠️ "No mapping found for HTTP"는 무엇을 의미할지..
->> - ```@RequestMapping("/hello") 관련 모듈 import``` 문장 미기입
+>> - ```@RequestMapping("/hello")``` 관련 모듈 import 문장 미기입
 >> - ```import org.springframework.web.bind.annotation.RequestMapping;``` 으로 해결
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/6e798369-4d5b-4931-87de-eb9a10183dec" width="500px"></p>
 

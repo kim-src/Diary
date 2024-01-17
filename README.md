@@ -9,10 +9,34 @@
 <!-- Contents -->
 
 <!-- Update Date -->
+#### <p align="right">Date : January 18, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
+### 🔔 STS 3 환경으로 압축 파일 import 하는 방법
+> - ZIP 확장자의 압축 파일 준비
+> - Package Explorer (흰 배경) → Import → General 진입
+> - General → Existing Projects into Worksapce 클릭
+> - Select archivefile란의 Browse 클릭 후 압축 파일 선택
+> - Finish 클릭 후 파일 검토
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
+
+<!-- Update Date -->
 #### <p align="right">Date : January 17, 2024</p>
 
 <!-- Title -->
-# 🚀 Book Rental Service (BRS) PJT
+# 🚀 Book Rental Service PJT
 
 <br/>
 

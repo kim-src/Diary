@@ -12,12 +12,12 @@
 #### <p align="right">Date : January 17, 2024</p>
 
 <!-- Title -->
-# 🚀 Book Platform PJT
+# 🚀 Bookstore Platform PJT
 
 <br/>
 
-### 🔔 도서 대여 고객 관리 프로그램
-### 📌 프로그램 제작을 위해 사용한 IDE
+### 🔔 서점 고객 관리 시스템
+### 📌 시스템 제작을 위해 사용된 IDE
 > - JDK 11 : Java Development Kit 11
 > - STS 3.9.17 : Spring Tool Suite 3
 > - Tomcat 9.0.52 : IDE에서 작성된 코드를 브라우저에 송출
@@ -25,9 +25,15 @@
 
 <br/>
 
-### 📌
+### 📌 시스템 구현을 위해 필요한 DataBase
+> - Member_tbl : 고객 정보 관리
+> - Rent_tbl : 고객 정보 및 도서 대여 정보 관리
 
 <br/>
+
+### 🎁 References
+> - [FastCampus 남궁성 강사님의 GitHub](https://github.com/castello)
+> - 고용노동부 K-Digital 프로젝트
 
 <!-- Contents -->
 

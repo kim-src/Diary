@@ -9,6 +9,29 @@
 <!-- Contents -->
 
 <!-- Update Date -->
+#### <p align="right">Date : January 17, 2024</p>
+
+<!-- Title -->
+# 🚀 Book Platform PJT
+
+<br/>
+
+### 🔔 도서 대여 고객 관리 프로그램
+> - 
+
+<br/>
+
+<!-- Contents -->
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
+
+<!-- Update Date -->
 #### <p align="right">Date : January 16, 2024</p>
 
 <!-- Title -->

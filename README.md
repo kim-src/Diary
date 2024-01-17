@@ -12,11 +12,12 @@
 #### <p align="right">Date : January 17, 2024</p>
 
 <!-- Title -->
-# 🚀 Bookstore Platform PJT
+# 🚀 Book Rental Service (BRS) PJT
 
 <br/>
 
-### 🔔 서점 고객 관리 시스템
+<!-- Contents -->
+### 🔔 도서 대여 정보 관리 시스템
 ### 📌 시스템 제작을 위해 사용된 IDE
 > - JDK 11 : Java Development Kit 11
 > - STS 3.9.17 : Spring Tool Suite 3
@@ -31,11 +32,13 @@
 
 <br/>
 
+### 📌
+
+<br/>
+
 ### 🎁 References
 > - [FastCampus 남궁성 강사님의 GitHub](https://github.com/castello)
 > - 고용노동부 K-Digital 프로젝트
-
-<!-- Contents -->
 
 <br/>
 

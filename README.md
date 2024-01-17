@@ -26,7 +26,7 @@
 <br/>
 
 ### 🎁 References
-> - [GitHub on 도서 대여 정보 관리 프로그램](https://github.com/Kim-src/Book-Rental-Service)
+> - [GitHub Link on 도서 대여 정보 관리 프로그램](https://github.com/Kim-src/Book-Rental-Service)
 
 <br/>
 
@@ -664,7 +664,7 @@ public class PersonVO {
 <br/>
 
 ### 🎁 References
-> - [GitHub URL on Cavity Detection Model](https://github.com/Kim-src/Cavity-Detection-Model)
+> - [GitHub Link on Cavity Detection Model](https://github.com/Kim-src/Cavity-Detection-Model)
 
 <br/>
 
@@ -699,9 +699,9 @@ public class PersonVO {
 <br/>
 
 ### 🎁 References
-> - [GitHub URL on Toy-PJT](https://github.com/Kim-src/Stock-Information)
-> - [Velog URL on Toy-PJT](https://velog.io/@kim-src/stock-information)
-> - [LinkedIn URL on Toy-PJT](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
+> - [GitHub Link on Toy-PJT](https://github.com/Kim-src/Stock-Information)
+> - [Velog Link on Toy-PJT](https://velog.io/@kim-src/stock-information)
+> - [LinkedIn Link on Toy-PJT](https://www.linkedin.com/feed/update/urn:li:activity:7150347795420336128/)
 > - [Kaggle DataSets](https://www.kaggle.com/datasets?topic=trendingDataset)
 > - [TTA Dictionary](http://word.tta.or.kr/main.do)
 

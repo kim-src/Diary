@@ -31,12 +31,12 @@
 
 ### 📌 시스템 구현을 위해 필요한 DataBase
 #### 🎯 Member_tbl : 고객 정보 관리 DB 구성
-> - cust_no
-> - cust_name
-> - phone
-> - join_date
-> - cust_email
-> - grade
+> - cust_no : 고객의 일련번호 / int / Primary Key
+> - cust_name : 고객의 이름 / varchar(20)
+> - phone : 고객의 전화번호 / varchar(20)
+> - join_date : 고객의 가입일자 / datetime / now()
+> - cust_email : 고객의 이메일 / varchar(50)
+> - grade : 고객의 등급 / varchar(20)
 #### 🎯 Rent_tbl : 고객 정보 및 도서 대여 정보 관리
 
 <br/>

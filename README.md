@@ -17,43 +17,7 @@
 <br/>
 
 <!-- Contents -->
-### 🔔 도서 대여 정보 관리 시스템
-
-<br/>
-
-### 📌 시스템 제작을 위해 사용된 IDE
-> - JDK 11 : Java Development Kit 11
-> - STS 3.9.17 : Spring Tool Suite 3
-> - Tomcat 9.0.52 : IDE에서 작성된 코드를 브라우저에 송출
-> - MySQL 8.0 : DataBase 관리
-
-<br/>
-
-### 📌 시스템 구현을 위해 필요한 DataBase
-#### 🎯 Member_tbl : 고객 정보 관리 DB 구성
-> - cust_no : 고객의 일련번호 / int / Primary Key
-> - cust_name : 고객의 이름 / varchar(20)
-> - phone : 고객의 전화번호 / varchar(20)
-> - join_date : 고객의 가입일자 / datetime / now()
-> - cust_email : 고객의 이메일 / varchar(50)
-> - grade : 고객의 등급 / varchar(20)
-#### 🎯 Rent_tbl : 고객 정보 및 도서 대여 정보 관리
-
-<br/>
-
-### 📌 시스템이 구현된 웹 페이지
-#### 🎯 Home
-> - 도서 대여 관련 페이지 및 UI 구성
->
-#### 🎯 Member Registration
-> - 고객 정보를 생성할 수 있는 페이지
-> - 고객 일련번호 : 
-
-<br/>
-
-### 🎁 References
-> - [FastCampus 남궁성 강사님의 GitHub](https://github.com/castello)
-> - 고용노동부 K-Digital 프로젝트
+### 📌 웹 개발 프로젝트
 
 <br/>
 

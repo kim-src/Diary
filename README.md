@@ -25,6 +25,11 @@
 
 <br/>
 
+### 🎁 References
+> - [GitHub on 도서 대여 정보 관리 프로그램](https://github.com/Kim-src/Book-Rental-Service)
+
+<br/>
+
 ***
 
 <br/>

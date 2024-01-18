@@ -32,8 +32,20 @@
 > - Package Explorer 압축 파일을 압축 해제
 > - C 드라이브 → 사용자 → PC명 → IdeaProjects 클릭
 > - IdeaProjects 폴더 내에 준비된 export했던 STS 파일 삽입
-### 📌 IntelliJ IDE에서 파일 import
-> - 
+### 📌 IntelliJ IDE에서 파일 import (IntelliJ Server)
+> - IntelliJ 실행 → New Project → Maven project → Ok 클릭
+> - 우측 상단의 Add Configurations → " + " 버튼 클릭
+> - Tomcat Server (TomEE 아님) 선택 → Name 입력
+> - Configure 클릭 후 Tomcat이 설치된 경로 선택
+> - HTTP port에 포트 번호 입력
+### 📌 IntelliJ IDE에서 파일 import (Deployment Server)
+> - OK 전에 상단의 Deployment 탭 클릭
+> - " + " 버튼 클릭 후 Artifact 클릭
+> - export했던 STS 압축 파일 선택되어 있으면 OK
+> - 하단에 Application context 입력(예시 : /ch2) 후 OK 버튼 클릭
+> - 참고로 Application context 입력란이 보이지 않으면 창 크기 확대
+> - 우측 상단의 Run 버튼 클릭 후 내용 검토
+### 📌 IntelliJ IDE에서 파일 import (빌드 오류 상황)
 
 
 <br/>

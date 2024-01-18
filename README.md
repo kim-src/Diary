@@ -53,8 +53,9 @@
 > - Java 선택 → C 드라이브의 Tomcat 설치 위치 선택 → lib 선택 후 OK 클릭
 > - Application context로 입력한 이름 맞으면 OK 클릭
 > - 우측 상단의 Name 입력(예시 : Apache Tomcat 9.0 Library) → OK 클릭
-> - IntelliJ 작업창 우측 상단의 망치 모양으로 된 Build Project 버튼 클릭
-
+> - IntelliJ 작업창 우측 상단의 "망치 모양"으로 된 Build Project 버튼 클릭
+> - "Build complete successfully" 메시지 출력되면 우측 상단의 Run 버튼 클릭
+> - Chrome 등 웹 브라우저 주소창에 "localhost/context 이름" 검색 후 결과 확인
 
 <br/>
 

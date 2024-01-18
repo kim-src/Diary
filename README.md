@@ -45,7 +45,15 @@
 > - 하단에 Application context 입력(예시 : /ch2) 후 OK 버튼 클릭
 > - 참고로 Application context 입력란이 보이지 않으면 창 크기 확대
 > - 우측 상단의 Run 버튼 클릭 후 내용 검토
-### 📌 IntelliJ IDE에서 파일 import (빌드 오류 상황)
+### 📌 IntelliJ IDE에서 파일 import (빌드 출력 에러 상황)
+> - Run 결과 Cannot resolve symbol 'annotation' 에러 발생
+> - Tomcat 라이브러리 import로 간단하게 해결 가능
+> - 왼쪽 상단의 File → Project Structure 클릭
+> - Project Settings의 Libraries 선택 → " + " 버튼 클릭
+> - Java 선택 → C 드라이브의 Tomcat 설치 위치 선택 → lib 선택 후 OK 클릭
+> - Application context로 입력한 이름 맞으면 OK 클릭
+> - 우측 상단의 Name 입력(예시 : Apache Tomcat 9.0 Library) → OK 클릭
+> - IntelliJ 작업창 우측 상단의 망치 모양으로 된 Build Project 버튼 클릭
 
 
 <br/>

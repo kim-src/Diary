@@ -60,6 +60,12 @@
 
 <br/>
 
+### 🔔 웹 브라우저 주소창 활용
+> - STS 환경 → Package Explorer 파일 선택
+> - src → main → webapp → WEB-INF → spring → appServlet → servlet-context.xml 
+
+<br/>
+
 ### 🎁 References
 > - FastCampus 남궁성 강사님 강의
 

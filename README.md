@@ -60,9 +60,13 @@
 
 <br/>
 
-### 🔔 웹 브라우저 주소창 활용
+### 🔔 웹 브라우저 URL 주소 세부 변경 방법
+> - URL 주소 예시 : localhost/ch2/resources/registerForm.html
+> - URL 주소 변경 예시 : localhost/ch2/registerForm.html
+### 📌 URL 주소 세부 변경 방법
 > - STS 환경 → Package Explorer 파일 선택
-> - src → main → webapp → WEB-INF → spring → appServlet → servlet-context.xml 
+> - src → main → webapp → WEB-INF → spring → appServlet → servlet-context.xml 선택
+> - 16번째 줄 정도의 mapping="/resources/**"에서 "resources"만 삭제
 
 <br/>
 

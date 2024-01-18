@@ -27,8 +27,13 @@
 <br/>
 
 ### 🔔 IntelliJ 환경으로 압축 파일 import 하는 방법
+### 📌 STS IDE에서 Package Explorer 파일 export
 > - STS 3 환경에서 export 원하는 Package Explorer 파일 다운로드
-> - Package Explorer 압축 파일을 압축 해제하여 IntelliJ 
+> - Package Explorer 압축 파일을 압축 해제
+> - C 드라이브 → 사용자 → PC명 → IdeaProjects 클릭
+> - IdeaProjects 폴더 내에 준비된 export했던 STS 파일 삽입
+### 📌 IntelliJ IDE에서 파일 import
+> - 
 
 
 <br/>

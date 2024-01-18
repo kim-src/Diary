@@ -26,6 +26,16 @@
 
 <br/>
 
+### 🔔 IntelliJ 환경으로 압축 파일 import 하는 방법
+> - STS 3 환경에서 export 원하는 Package Explorer 파일 다운로드
+> - Package Explorer 압축 파일을 압축 해제하여 IntelliJ 
+
+
+<br/>
+
+### 🎁 References
+> - FastCampus 남궁성 강사님 강의
+
 ***
 
 <br/>

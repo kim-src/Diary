@@ -9,6 +9,35 @@
 <!-- Contents -->
 
 <!-- Update Date -->
+#### <p align="right">Date : January 20, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
+
+<br/>
+
+### 🔔 STS를 활용한 웹 개발 프로젝트
+### 🚀 Book Rental Service 웹 개발
+> - STS 3 및 Tomcat 9을 활용한 메인 페이지(Home) 구현 완료
+> - 도서 대여 고객 등록 페이지(register) 구현 완료
+> - 도서 대여 고객 목록 페이지(list) 구현 완료
+> - 도서 대여 고객 목록에 해당하는 Member_tbl DB 연결 시도중
+
+### 🎁 References
+> - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
+
+***
+
+<br/>
+<br/>
+<br/>
+
+
+<!-- Update Date -->
 #### <p align="right">Date : January 19, 2024</p>
 
 <!-- Title -->

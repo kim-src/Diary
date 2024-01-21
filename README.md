@@ -7,6 +7,7 @@
 <!-- Update Date -->
 <!-- Title -->
 <!-- Contents -->
+<!-- References -->
 
 <!-- Update Date -->
 #### <p align="right">Date : January 20, 2024</p>
@@ -17,9 +18,28 @@
 <br/>
 
 <!-- Contents -->
+### 🔔 STS를 활용한 웹 개발 프로젝트
+### 🚀 Book Rental Service 웹 개발
+
+<!-- References -->
 
 <br/>
 
+***
+
+<br/>
+<br/>
+<br/>
+
+<!-- Update Date -->
+#### <p align="right">Date : January 20, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
 ### 🔔 STS를 활용한 웹 개발 프로젝트
 ### 🚀 Book Rental Service 웹 개발
 > - STS 3 및 Tomcat 9을 활용한 메인 페이지(Home) 구현 완료
@@ -27,6 +47,9 @@
 > - 도서 대여 고객 목록 페이지(list) 구현 완료
 > - 도서 대여 고객 목록에 해당하는 Member_tbl DB 연결 시도중
 
+<br/>
+
+<!-- References -->
 ### 🎁 References
 > - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 
@@ -46,6 +69,18 @@
 <br/>
 
 <!-- Contents -->
+### 🔔 STS를 활용한 웹 개발 프로젝트
+### 🚀 Book Rental Service 웹 개발
+> - STS 3 및 Tomcat 9을 활용한 메인 페이지(Home) 구현 시도중
+> - SQL 8을 활용한 고객 및 대여 리스트 DB 생성 완료
+> - DB 종류는 고객 목록(Memeber_tbl) 및 대여 목록(Rent_tbl)
+> - 추후 Book Rental Service 관련 모든 페이지 구현 목적 
+
+<br/>
+
+<!-- References -->
+### 🎁 References
+> - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 
 <br/>
 

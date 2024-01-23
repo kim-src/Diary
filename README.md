@@ -10,6 +10,16 @@
 <!-- References -->
 
 <!-- Update Date -->
+#### <p align="right">Date : January 22, 2024</p>
+
+<!-- Title -->
+# ✅ Spring
+
+<br/>
+
+<!-- Contents -->
+
+<!-- Update Date -->
 #### <p align="right">Date : January 21, 2024</p>
 
 <!-- Title -->
@@ -18,6 +28,19 @@
 <br/>
 
 <!-- Contents -->
+### 🔔 Spring MVC framework 프로젝트
+### 🚀 Book Rental Service 웹 개발
+> - Spring (java, jsp 등) 환경과 SQL 환경 연동 시도
+> - pom.xml, Controller, View, Model에 대한 생성 및 수정 반복
+> - 일일이 정리할 수 없는 수많은 에러 발생
+> - 08:30 ~ 23:59까지 다른 방법으로 수차례 시도해봤지만 명일 재도전 예정..
+
+<br/>
+
+<!-- References -->
+### 🎁 References
+> - [CodeJava.net의 Spring MVC + Spring Data JPA + Hibernate - CRUD Example](https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example)
+> - [동빈나 유튜브채널의 MySQL 및 JSP 연동 실습](https://www.youtube.com/watch?v=1Wuwl57cXvw)
 
 <!-- Update Date -->
 #### <p align="right">Date : January 20, 2024</p>

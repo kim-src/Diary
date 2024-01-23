@@ -40,7 +40,26 @@
 <!-- References -->
 ### 🎁 References
 > - [CodeJava.net의 Spring MVC + Spring Data JPA + Hibernate - CRUD Example](https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example)
-> - [동빈나 유튜브채널의 MySQL 및 JSP 연동 실습](https://www.youtube.com/watch?v=1Wuwl57cXvw)
+> - [동빈나 유튜브 채널의 MySQL 및 JSP 연동 실습](https://www.youtube.com/watch?v=1Wuwl57cXvw)
+
+<!-- Title -->
+# ✅ New Information
+
+<br/>
+
+### 🔔 추후 프로젝트
+### 📌 JSP 강의사이트 웹 사이트 개발
+> - [동빈나 유튜브 채널의 JSP 실습 재생목록](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB)
+### 📌 API 개발 및 판매
+> - [Rakuten API MarketPlace](https://rapidapi.com/search/rakuten)
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 20, 2024</p>

@@ -133,8 +133,8 @@
 > - 2023년의 경우 전국 22개 대학원의 27개 석사과정으로 구성되었음
 > - 2022년의 경우 전국 6개 대학원의 7개 석사과정으로 구성되었음
 > - 해마다 대학원, 전공 구성, 모집 인원 등이 변경되니 주시해야됨
-> - 2022년의 일반대학 온라인 석사 학위과정 구성은 아래와 같았었음
-> - <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/3325ae34-dc4f-485c-a704-da27bc6a2a04 width="500px"></p>
+> - 2022년의 일반대학 온라인 석사 학위과정 구성은 아래와 같았었음(출처 : 교육부)
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/3325ae34-dc4f-485c-a704-da27bc6a2a04 width="500px"></p>
 
 <br/>
 

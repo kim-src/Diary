@@ -10,11 +10,26 @@
 <!-- References -->
 
 24
-Spring MVC Framework 프로젝트
-Book Rental Service 웹 ver 0.5 개발 완료
-STS3의 java, jsp 파일에서 HTML, CSS, Java
-STS3의 java, jsp, xml 파일과 SQL의 DB에 대한 연동 시도중
 
+# ✅️ Spring
+
+<br/>
+
+### 🔔 Spring MVC Framework 프로젝트
+### 🚀 Book Rental Service 웹 ver 0.5 개발 완료
+> - STS3의 java, jsp 파일에서 HTML, CSS, Java 언어로 웹 프론트엔드 제작 완료
+> - STS3의 java, jsp, xml 파일과 SQL의 DB에 대한 연동 시도중(백엔드)
+> - 수많은 에러를 해결하며 수정하였지만 새로운 에러가 계속해서 발생
+> - 아래는 개발된 웹 페이지 관련 깃허브 링크
+> - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 23, 2024</p>
@@ -46,6 +61,7 @@ STS3의 java, jsp, xml 파일과 SQL의 DB에 대한 연동 시도중
 
 <!-- References -->
 ### 🎁 References
+> - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 > - [CodeJava.net의 Spring MVC + Spring Data JPA + Hibernate - CRUD Example](https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example)
 > - [동빈나 유튜브 채널의 MySQL 및 JSP 연동 실습](https://www.youtube.com/watch?v=1Wuwl57cXvw)
 

@@ -10,6 +10,11 @@
 <!-- References -->
 
 24
+Spring MVC Framework 프로젝트
+Book Rental Service 웹 ver 0.5 개발 완료
+STS3의 java, jsp 파일에서 HTML, CSS, Java
+STS3의 java, jsp, xml 파일과 SQL의 DB에 대한 연동 시도중
+
 
 <!-- Update Date -->
 #### <p align="right">Date : January 23, 2024</p>
@@ -30,7 +35,7 @@
 <br/>
 
 <!-- Contents -->
-### 🔔 Spring MVC framework 프로젝트
+### 🔔 Spring MVC Framework 프로젝트
 ### 🚀 Book Rental Service 웹 개발
 > - Spring (java, jsp 등) 환경과 SQL 환경 연동 시도
 > - pom.xml, Controller, View, Model에 대한 생성 및 수정 반복

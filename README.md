@@ -9,12 +9,15 @@
 <!-- Contents -->
 <!-- References -->
 
-24
+<!-- Update Date -->
+#### <p align="right">Date : January 23, 2024</p>
 
+<!-- Title -->
 # ✅️ Spring
 
 <br/>
 
+<!-- Contents -->
 ### 🔔 Spring MVC Framework 프로젝트
 ### 🚀 Book Rental Service 웹 ver 0.5 개발 완료
 > - STS3의 java, jsp 파일에서 HTML, CSS, Java 언어로 웹 프론트엔드 제작 완료

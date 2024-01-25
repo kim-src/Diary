@@ -105,7 +105,7 @@
 <br/>
 
 <!-- Update Date -->
-#### <p align="right">Date : January 20, 2024</p>
+#### <p align="right">Date : January 21, 2024</p>
 
 <!-- Title -->
 # ✅ Spring
@@ -115,8 +115,8 @@
 <!-- Contents -->
 ### 🔔 STS를 활용한 웹 개발 프로젝트
 ### 🚀 Book Rental Service 웹 개발
-
-<!-- References -->
+> - HomeController를 시작으로 MVC Framework 개념 이해 완료
+> - HTML, CSS를 활용한 웹 페이지의 프론트엔드 구축 과정 이해 완료
 
 <br/>
 

@@ -90,6 +90,7 @@
 
 <br/>
 
+<!-- Contents -->
 ### 🔔 Upcoming Project
 ### 📌 JSP 강의사이트 웹 사이트 개발
 > - [동빈나 유튜브 채널의 JSP 실습 재생목록](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB)
@@ -117,6 +118,23 @@
 ### 🚀 Book Rental Service 웹 개발
 > - HomeController를 시작으로 MVC Framework 개념 이해 완료
 > - HTML, CSS를 활용한 웹 페이지의 프론트엔드 구축 과정 이해 완료
+
+<br/>
+
+<!-- Title -->
+# ✅ New Information
+
+<br/>
+
+<!-- Contents -->
+### 🔔 개발 직군 관련 전공
+> - "일반대학 온라인 (석사)학위과정"을 탐구함
+> - 이 학위과정은 2021년 2월 도입된 교육제도임
+> - 2023년의 경우 전국 22개 대학원의 27개 석사과정으로 구성되었음
+> - 2022년의 경우 전국 6개 대학원의 7개 석사과정으로 구성되었음
+> - 해마다 대학원, 전공 구성, 모집 인원 등이 변경되니 주시해야됨
+> - 2022년의 일반대학 온라인 석사 학위과정 구성은 아래와 같았었음
+> - <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/3325ae34-dc4f-485c-a704-da27bc6a2a04 width="500px"></p>
 
 <br/>
 

@@ -9,11 +9,17 @@
 <!-- Contents -->
 <!-- References -->
 
+29
+발자취 정리 시작 예정
+
 28
+chatGPT 정보
 
 27
+DB 관리 툴
 
 26
+이직 포트폴리오 아이디 정리
 
 <!-- Update Date -->
 #### <p align="right">Date : January 25, 2024</p>

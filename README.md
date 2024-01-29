@@ -134,9 +134,25 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 <br/>
 <br/>
 
-28
+<!-- Update Date -->
+#### <p align="right">Date : January 28, 2024</p>
+
+<!-- Title -->
+# ✅️ New Issue
+
+<br/>
+
+<!-- Contents -->
 chatGPT 정보
 DB 관리 툴
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
 
 27
 휴식

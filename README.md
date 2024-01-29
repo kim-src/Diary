@@ -128,6 +128,17 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 
 <br/>
 
+<!-- Title -->
+# ✅ New Information
+
+<br/>
+
+<!-- Contents -->
+### 🔔 국가 무료 강의 사이트
+### 📌 e-Korea Tech 강의실
+> - [e-Korea Tech 링크](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&amp;amp;m2=course_detail%25&amp;amp;course_id=222911%25&m2=course_list%25&startCount=0%25&filter_list=sort%3Dcreation_day%2FDESC%25)
+> - (첨언) 왜 무료인지 모를 정도인 다양한 콘텐츠의 강의들..
+
 ***
 
 <br/>

@@ -57,10 +57,24 @@
 > - 태그명이 동시에 수정됨으로써 귀찮음 최소화
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/bedf380a-61ad-4d98-9914-815389abbebd" width="500px"></p>
 
-<p align="center"><img src="" width="500px"></p>
-<p align="center"><img src="" width="500px"></p>
-<p align="center"><img src="" width="500px"></p>
-<p align="center"><img src="" width="500px"></p>
+### 📌 HTML to CSS autocompletion
+> - HTML 페이지 내용과 CSS 페이지 내용 연동
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/557ed457-99de-4344-a29e-6b4e585a617a" width="500px"></p>
+
+### 📌 HTML CSS Support
+> - CSS 페이지 내용과 HTML 페이지 내용 연동
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/09df1fd1-9d7b-4472-a092-6754dfff7e7f" width="500px"></p>
+
+### 📌 CSS Peek
+> - Ctrl 클릭 후 HTML 태그에 마우스를 가져다 대면 CSS 페이지 내용 확인 가능
+> - Ctrl 클릭 후 HTML 페이지 내용을 클릭하면 연동된 CSS 페이지로 이동
+> - Ctrl 클릭 후 CSS 페이지 내용을 클릭하면 연동된 HTML 페이지로 이동
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/5240997a-1c82-4040-b4b5-8fde8dc26515" width="500px"></p>
+
+### 📌 Autoprefixer
+> - 웹 브라우저의 버전에 구애받지 않고 CSS 코드를 구현할 수 있는 기능
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/ac34da05-627c-4607-931c-559f09fa3364" width="500px"></p>
+
 <p align="center"><img src="" width="500px"></p>
 <p align="center"><img src="" width="500px"></p>
 

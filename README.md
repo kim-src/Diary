@@ -46,7 +46,23 @@
 ### 📌 Material Theme
 > - VS Code의 전체적인 색 테마 설정
 > - ex) Material Theme Darker High Contrast 테마
-> - <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/eb6b91e6-bc67-4d21-8db3-1f09097916d8" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/eb6b91e6-bc67-4d21-8db3-1f09097916d8" width="500px"></p>
+
+### 📌 Material Icon Theme
+> - HTML, CSS, JS 등을 알맞은 아이콘으로 구분
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/f12079a1-987d-473c-a9e4-a5b708cf0f07" width="500px"></p>
+
+### 📌 Auto Rename Tag
+> - 시작 태그와 끝 태그의 짝을 맞춰주는 기능
+> - 태그명이 동시에 수정됨으로써 귀찮음 최소화
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/bedf380a-61ad-4d98-9914-815389abbebd" width="500px"></p>
+
+<p align="center"><img src="" width="500px"></p>
+<p align="center"><img src="" width="500px"></p>
+<p align="center"><img src="" width="500px"></p>
+<p align="center"><img src="" width="500px"></p>
+<p align="center"><img src="" width="500px"></p>
+<p align="center"><img src="" width="500px"></p>
 
 <br>
 

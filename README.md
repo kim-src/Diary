@@ -230,6 +230,8 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 > - [e-Korea Tech 링크](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&amp;amp;m2=course_detail%25&amp;amp;course_id=222911%25&m2=course_list%25&startCount=0%25&filter_list=sort%3Dcreation_day%2FDESC%25)
 > - (첨언) 왜 무료인지 모를 정도인 다양한 콘텐츠의 강의들..
 
+<br>
+
 ***
 
 <br>
@@ -249,8 +251,17 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 ### 📌 Q. What Would you like ChatGPT to know about you to provide better responses?
 > - I am a full-stack web developer with little experience.
 > - I want to make money by creating a website or program using ChatGPT.
-> - In particular, I would like to sell the API created using ChatGPT on a site similar to "https://rapidapi.com/hub".
+> - I would like to sell the API created using ChatGPT.
+### 📌 Q. How would you like ChatGPT to respond?
+> - Please provide the programming code in great detail and accuracy.
+> - Please provide only accurate information.
+> - Please provide easy to understand.
+> - Please provide some examples if necessary.
+### 🎁 요약 해석
+> - 나는 초보 풀스택 개발자이며 ChatGPT를 이용하여 돈을 벌고 싶어요.
+> - 답변은 최대한 상세하고 정확하며 쉽게 알려주세요.
 
+<br>
 
 DB 관리 툴
 

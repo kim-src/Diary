@@ -81,7 +81,15 @@
 > - Extensions 설명에서 "설정"이라는 단어를 클릭하면 TRUE/FALSE 선택 가능
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/9059557e-d3a0-488f-994e-430e88e61671" width="500px"></p>
 
-<p align="center"><img src="" width="500px"></p>
+### 📌 indent-rainbow
+> - 태그로 들여쓰기 된 여백에 알록달록한 색상칸 배치
+> - 들여쓰기 된 부분에 대한 구분 가능
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/9f50cc1b-9812-427f-80c7-89c22299dbda" width="500px"></p>
+
+### 📌 Live Server
+> - 작업중인 HTML/CSS 코드의 구현 상태를 실시간으로 확인 가능
+> - 코드를 저장하면 웹 페이지 내용이 실시간으로 변경
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/a40b2844-d79b-49ab-be45-a3b9a1a8db16" width="500px"></p>
 
 <br>
 

@@ -274,6 +274,19 @@ DB 관리 툴
 <br>
 
 <!-- Update Date -->
+#### <p align="right">Date : January 27, 2024</p>
+
+<!-- Title -->
+# ✅️ 링크드인 글
+
+<br>
+
+<!-- Contents -->
+### 🔔 유시온 님 글
+### 📌 2024년 목표와 관련된 만다라트 표
+<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/ba663331-89b4-4a7c-a9c6-ddeac7f5c755" width="500px"></p>
+
+<!-- Update Date -->
 #### <p align="right">Date : January 25, 2024</p>
 
 <!-- Title -->

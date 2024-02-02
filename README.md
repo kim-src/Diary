@@ -30,11 +30,6 @@
 <br/>
 <br/>
 
-1
-
-30
-
-
 <!-- Update Date -->
 #### <p align="right">Date : January 29, 2024</p>
 
@@ -44,7 +39,8 @@
 <br/>
 
 <!-- Contents -->
-### [" 여유 : 그림의 떡 "]()
+### 🔔 링크드인 글 작성
+### [" 여유 : 그림의 떡 "](https://www.linkedin.com/feed/update/urn:li:activity:7157665757672206338/)
 
 <br/>
 

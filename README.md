@@ -240,12 +240,18 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 #### <p align="right">Date : January 28, 2024</p>
 
 <!-- Title -->
-# ✅️ New Issue
+# ✅️ ChatGPT-4 프로필 설정
 
 <br>
 
 <!-- Contents -->
-chatGPT 정보
+### 🔔 ChatGPT Custom Instructions
+### 📌 Q. What Would you like ChatGPT to know about you to provide better responses?
+> - I am a full-stack web developer with little experience.
+> - I want to make money by creating a website or program using ChatGPT.
+> - In particular, I would like to sell the API created using ChatGPT on a site similar to "https://rapidapi.com/hub".
+
+
 DB 관리 툴
 
 <br>
@@ -325,7 +331,7 @@ DB 관리 툴
 ### 🚀 Book Rental Service 웹 개발
 > - 꾸준한 개발로 STS3 개발 환경에 상당히 적응됨
 > - Spring 오류를 해결하면 Tomcat 서버 오류가 뜨는 현상이 반복됨
-> - chatGPT에 의존하던 웹 개발 실력에서 일부 발전함
+> - ChatGPT에 의존하던 웹 개발 실력에서 일부 발전함
 > - 웹 개발에 필요한 IDE, 언어, 파일, 코드에 익숙해지기 시작함
 > - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 

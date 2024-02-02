@@ -15,20 +15,20 @@
 <!-- Title -->
 # ✅️ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 웹 개발 : 도서 대여 고객 관리 웹
 ### 📌 프로젝트 정리한 내용 정리
 > - [Book Rental Service 웹 GitHub 링크](https://github.com/Kim-src/Book-Rental-Service)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 30, 2024</p>
@@ -36,7 +36,7 @@
 <!-- Title -->
 # ✅️ Visual Studio Code
 
-<br/>
+<br>
 
 <!-- Contents -->
 
@@ -54,13 +54,13 @@
 <!-- Title -->
 # ✅️ Remind
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 링크드인 글 작성
 ### [" 여유 : 그림의 떡 "](https://www.linkedin.com/feed/update/urn:li:activity:7157665757672206338/)
 
-<br/>
+<br>
 
 ### 📌 1. 쉼표
 자연과학 계열의 연구자 및 기술자에서  
@@ -166,12 +166,12 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 이 글이 지쳤던 제 삶에 활력을 불어넣어 주었습니다.  
 오늘도, 잠시라도, 행복하십시오.  
 
-<br/>
+<br>
 
 <!-- Title -->
 # ✅ New Information
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 국가 무료 강의 사이트
@@ -181,9 +181,9 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 28, 2024</p>
@@ -191,19 +191,19 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 <!-- Title -->
 # ✅️ New Issue
 
-<br/>
+<br>
 
 <!-- Contents -->
 chatGPT 정보
 DB 관리 툴
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 27
 휴식
@@ -217,7 +217,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅️ New Issue
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 "메타코드M" 으로부터의 연락
@@ -228,13 +228,13 @@ DB 관리 툴
 > - 한편 개발자 자체의 경력은 없다고 말씀드리니.. 답변을 1~3시간 뒤에 받게 됨..
 > - [메타코드M 유튜브 채널](https://www.youtube.com/channel/UChu25pJgVZB3p0dVEgmU0PQ)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 24, 2024</p>
@@ -242,7 +242,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅️ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Spring MVC Framework 프로젝트
@@ -253,13 +253,13 @@ DB 관리 툴
 > - 아래는 개발된 웹 페이지 관련 깃허브 링크
 > - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 23, 2024</p>
@@ -267,7 +267,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Spring MVC Framework 프로젝트
@@ -278,13 +278,13 @@ DB 관리 툴
 > - 웹 개발에 필요한 IDE, 언어, 파일, 코드에 익숙해지기 시작함
 > - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 22, 2024</p>
@@ -292,7 +292,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Spring MVC Framework 프로젝트
@@ -302,7 +302,7 @@ DB 관리 툴
 > - 일일이 정리할 수 없는 수많은 에러 발생
 > - 08:30 ~ 23:59까지 다른 방법으로 수차례 시도해봤지만.. 명일 재도전 예정..
 
-<br/>
+<br>
 
 <!-- References -->
 ### 🎁 References
@@ -310,12 +310,12 @@ DB 관리 툴
 > - [CodeJava.net의 Spring MVC + Spring Data JPA + Hibernate - CRUD Example](https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example)
 > - [동빈나 유튜브 채널의 MySQL 및 JSP 연동 실습](https://www.youtube.com/watch?v=1Wuwl57cXvw)
 
-<br/>
+<br>
 
 <!-- Title -->
 # ✅ New Information
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Upcoming Project
@@ -324,13 +324,13 @@ DB 관리 툴
 ### 📌 API 개발 및 판매
 > - [Rakuten API MarketPlace](https://rapidapi.com/search/rakuten)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 21, 2024</p>
@@ -338,7 +338,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 STS를 활용한 웹 개발 프로젝트
@@ -346,12 +346,12 @@ DB 관리 툴
 > - HomeController를 시작으로 MVC Framework 개념 이해 완료
 > - HTML, CSS를 활용한 웹 페이지의 프론트엔드 구축 과정 이해 완료
 
-<br/>
+<br>
 
 <!-- Title -->
 # ✅ New Information
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 개발 직군 관련 전공
@@ -363,13 +363,13 @@ DB 관리 툴
 > - 2022년의 일반대학 온라인 석사 학위과정 구성은 아래와 같았었음(출처 : 교육부)
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/3325ae34-dc4f-485c-a704-da27bc6a2a04 width="500px"></p>
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 20, 2024</p>
@@ -377,7 +377,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 STS를 활용한 웹 개발 프로젝트
@@ -387,7 +387,7 @@ DB 관리 툴
 > - 도서 대여 고객 목록 페이지(list) 구현 완료
 > - 도서 대여 고객 목록에 해당하는 Member_tbl DB 연결 시도중
 
-<br/>
+<br>
 
 <!-- References -->
 ### 🎁 References
@@ -395,9 +395,9 @@ DB 관리 툴
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 
 <!-- Update Date -->
@@ -406,7 +406,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 STS를 활용한 웹 개발 프로젝트
@@ -416,19 +416,19 @@ DB 관리 툴
 > - DB 종류는 고객 목록(Memeber_tbl) 및 대여 목록(Rent_tbl)
 > - 추후 Book Rental Service 관련 모든 페이지 구현 목적 
 
-<br/>
+<br>
 
 <!-- References -->
 ### 🎁 References
 > - [Book Rental Service 웹 개발 깃허브 주소](https://github.com/Kim-src/Book-Rental-Service)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 18, 2024</p>
@@ -436,7 +436,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 STS 환경에서의 UTF-8 인코딩 간편 변경 방법
@@ -445,7 +445,7 @@ DB 관리 툴
 > - Encoding 글자 옆 박스 클릭
 > - "Korean, EUC-KR" 선택 후 OK 버튼 클릭
 
-<br/>
+<br>
 
 ### 🔔 STS 환경으로 압축 파일 import 하는 방법
 > - ZIP 확장자의 압축 파일 준비
@@ -454,7 +454,7 @@ DB 관리 툴
 > - Select archivefile란의 Browse 클릭 후 압축 파일 선택
 > - Finish 클릭 후 파일 검토
 
-<br/>
+<br>
 
 ### 🔔 IntelliJ 환경으로 압축 파일 import 하는 방법
 ### 📌 STS IDE에서 Package Explorer 파일 export
@@ -488,7 +488,7 @@ DB 관리 툴
 > - "Build complete successfully" 메시지 출력되면 우측 상단의 Run 버튼 클릭
 > - Chrome 등 웹 브라우저 주소창에 "localhost/context 이름" 검색 후 결과 확인
 
-<br/>
+<br>
 
 ### 🔔 웹 브라우저 URL 주소 세부 변경
 > - URL 주소 예시 : localhost/ch2/resources/registerForm.html
@@ -498,16 +498,16 @@ DB 관리 툴
 > - src → main → webapp → WEB-INF → spring → appServlet → servlet-context.xml 선택
 > - 16번째 줄 정도의 mapping="/resources/**"에서 "resources"만 삭제
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 남궁성 강사님 강의
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 17, 2024</p>
@@ -515,7 +515,7 @@ DB 관리 툴
 <!-- Title -->
 # 🚀 Book Rental Service PJT
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 웹 개발 프로젝트 시작
@@ -524,18 +524,18 @@ DB 관리 툴
 > - 프로그램 구현을 위해 필요한 DataBase 파악
 > - 프로그램이 구현된 웹 페이지 구체화
 
-<br/>
+<br>
 
 ### 🎁 References
 > - [GitHub Link on 도서 대여 정보 관리 프로그램](https://github.com/Kim-src/Book-Rental-Service)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 16, 2024</p>
@@ -543,17 +543,17 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 15, 2024</p>
@@ -561,7 +561,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 STS 3 (Spring Tool Suite 3) 구동 테스트
@@ -571,46 +571,46 @@ DB 관리 툴
 >> - ```import org.springframework.web.bind.annotation.RequestMapping;``` 으로 해결
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/6e798369-4d5b-4931-87de-eb9a10183dec" width="500px"></p>
 
-<br/>
+<br>
 
 > ☠️ 이번에는 500 코드를 리턴하는 Tomcat..
 >> - 문제를 찾지 못했기에 java class 삭제 후 다시 생성
 >> - 그럼에도 문제 발생 시 STS 등 초기화 후 재시도까지 사료
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/f096f516-bb09-4d77-bf30-b7a7496bd6b4" width="500px"></p>
 
-<br/>
+<br>
 
 > 🚀 드디어 STS 환경에서 Tomcat 실행 성공
 >> - Search 버튼 클릭 및 JDK 버전 검색 후 JDK 11로 변경
 >> - Preferences → Java → Installed JREs → Add C:\jdk11
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/41fc47ca-0f38-4286-a751-6c693d295668" width="500px"></p>
 
-<br/>
+<br>
 
 > ☠️ 영문 모를 이유로 404 코드만 리턴하는 Tomcat..
 >> - Tomcat은 정상적으로 실행되었지만 System.out으로 인한 404 코드 반환
 >> - STS 콘솔창에 "Hello" 출력된 것 확인
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/630eda1d-631b-4baf-8686-8799128810e6" width="500px"></p>
 
-<br/>
+<br>
 
 > 🚀 STS 콘솔창에 "Hello" 출력 성공
 >> - Tomcat 내부에서 객체 생성
 >> - Instance Method임에도 Method 호출
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/27917b95-44b5-4b1a-bbdf-a144d50e9d43" width="500px"></p>
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus의 남궁성 강사님 강의
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 14, 2024</p>
@@ -618,24 +618,24 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 HTTP 특징
 ### 📌 ㅇㅇ
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 남궁성 강사님 강의
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 13, 2024</p>
@@ -643,7 +643,7 @@ DB 관리 툴
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Spring Legacy Project 생성 오류
@@ -656,7 +656,7 @@ java.lang.ExceptionInInitializerError
 ```
 > - 오류를 무시하고 넘어갈 수 없으며 다른 오류도 발생됨
 
-<br/>
+<br>
 
 ### 🎯 Spring Legacy Project 생성 오류 해결 과정 (1/3)
 ### 🔑 Java JDK 호환 문제 해결
@@ -667,7 +667,7 @@ java.lang.ExceptionInInitializerError
 > - 이곳 또는 비슷한 사이트에서 JDK 11을 다운로드 해야됨
 > - 참고로 작성자의 개발 환경은 Window 11 x64임
 
-<br/>
+<br>
 
 ### 🎯 Spring Legacy Project 생성 오류 해결 과정 (2/3)
 ### 🔑 시스템 환경 변수 편집
@@ -683,7 +683,7 @@ java.lang.ExceptionInInitializerError
 >> 3. 모든 환경 변수 설정을 완료 후 확인 클릭
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/e7551df5-4a94-4323-b763-8120670489aa" width="500px"></p>
 
-<br/>
+<br>
 
 ### 🎯 Spring Legacy Project 생성 오류 해결 과정 (3/3)
 ### 🔑 오류 해결 결과 검토
@@ -693,13 +693,13 @@ java.lang.ExceptionInInitializerError
 > - Package 구조 입력 페이지로 넘어가면 오류 해결 완료
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/7052a5ab-3a9b-499c-8c26-dba67bc10f45" width="500px"></p>
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 12, 2024</p>
@@ -707,7 +707,7 @@ java.lang.ExceptionInInitializerError
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Tomcat 페이지 로드 오류
@@ -716,7 +716,7 @@ java.lang.ExceptionInInitializerError
 > - 오류의 원인은 Tomcat 관련 cmd 명령어 창을 종료시켰기 때문임
 > - Tomcat 종료 방법 중 하나가 cmd 명령어 창을 종료시키는 것임
 
-<br/>
+<br>
 
 ### 🎯 Tomcat 페이지 로드 오류 해결
 > - Tomcat 9 페이지를 로드시키기 위해서 cmd 명령어 창 실행
@@ -734,13 +734,13 @@ startup
 > - 아래와 같 정상적인 Tomcat 페이지 로드 확인
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/163ce9cd-34cf-4231-a0fd-6fcdbc966dec" width="500px"></p>
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 11, 2024</p>
@@ -748,7 +748,7 @@ startup
 <!-- Title -->
 # ✅ Spring
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Spring으로 개발하기 위해 필요한 도구들
@@ -766,18 +766,18 @@ startup
 > - Apache Maven : HTTP Server 관련 툴
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/fbfec5ba-5e5b-4545-987a-361fd2808619" width="500px"></p>
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 남궁성 강사님 강의
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 10, 2024</p>
@@ -785,7 +785,7 @@ startup
 <!-- Title -->
 # ✅ Java
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 잘 설계된 VO 클래스
@@ -798,7 +798,7 @@ startup
 > 6. Generate 메뉴에서 toString() 선택 후 OK 클릭
 > 7. main class 설계 및 인스턴스 변수 생성 후 검토
 
-<br/>
+<br>
 
 ### 🚀 잘 설계된 MovieVO 클래스 설계(1 ~ 6단계)
 ``` Java
@@ -888,7 +888,7 @@ public class MovieVO {
 
 ```
 
-<br/>
+<br>
 
 ### 🚀 잘 설계된 MovieVO 클래스 검토(7단계)
 ``` Java
@@ -907,7 +907,7 @@ public class BestVOModeling {
 
 ```
 
-<br/>
+<br>
 
 ### 📌 JVM 이해
 > - JVM : Java Virtual Machine
@@ -917,7 +917,7 @@ public class BestVOModeling {
 >> 3. Stack Area
 >> 4. Literal Pool
 
-<br/>
+<br>
 
 ### 📌 Static 이해
 > - static 있으면 class method
@@ -926,14 +926,14 @@ public class BestVOModeling {
 > - 어느 class로부터 사용할 메서드에는 전부 static 입력
 > - class에 static 있으면 생성자 메서드 권한을 private으로 설정
 
-<br/>
+<br>
 
 ### 📌 생성자 메서드 권한 : private
 > - Java에 기본적으로 설계된 System, Math 메서드 등이 예시임
 > - 별도의 new 생성자 메서드 없이 바로 사용할 수 있는 메서드이기 때문임
 > - System, Math 변수 등에 .(연결)을 입력하면 설계된 변수들이 표시됨
 
-<br/>
+<br>
 
 ### 📌 강의 내용 요약 : 배열과 클래스의 관계
 #### Q1. 동일한 기억공간을 메모리에 연속적인 구조로 만들어서 사용하는 자료 구조를 무엇이라고 합니까?
@@ -951,7 +951,7 @@ public class BestVOModeling {
 #### Q5. 영화 데이터 5편을 저장할 수 있는 객체 배열은 무엇입니까?
 > - MovieVO[ ] mv = new MovieVO[5];
 
-<br/>
+<br>
 
 ### 📌 강의 내용 요약 : Static 및 JVM 메모리 모델 이해
 #### Q1. 클래스를 사용하는 시점에서 단 한 번 메모리에 로딩하기 위해 사용하는 키워드는 무엇입니까?
@@ -972,18 +972,18 @@ public class BestVOModeling {
 > 3. Stack Area
 > 4. Literal Pool
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 박매일 강사님 강의
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 9, 2024</p>
@@ -991,7 +991,7 @@ public class BestVOModeling {
 <!-- Title -->
 # ✅ Java
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Setter & Getter Methods
@@ -1000,7 +1000,7 @@ public class BestVOModeling {
 > - 저장된 데이터는 public 상태의 getter method를 사용해야 추출 또는 출력됨
 > - 한편 생성자 method를 이용하여 해당 class의 초기 상태 정보를 설계할 수 있음
 
-<br/>
+<br>
 
 ### 🔔 Differences between Class & Array
 ### 📌 Difference 1
@@ -1013,7 +1013,7 @@ public class BestVOModeling {
 > - class가 여러개 모이면 "객체 배열"이라고 표현할 수 있음
 > - array는 같은 종류의 자료형 데이터가 여러개 모인 "기본 배열"이라고 표현할 수 있음
 
-<br/>
+<br>
 
 ### 🔔 잘 설계된 VO 클래스
 ### 📌 Java의 데이터 모델은 크게 세 가지로 구분된다.
@@ -1032,7 +1032,7 @@ public class BestVOModeling {
 > - toString() 메서드를 사용하면 모든 데이터를 가장 간편하게 출력할 수 있음
 > - 심지어 System.out.println(변수명);에서 toString()을 생략해도 정상 출력됨
 
-<br/>
+<br>
 
 ### 🚀 잘 설계된 Java VO 클래스 예시
 ``` Java
@@ -1096,12 +1096,12 @@ public class PersonVO {
 
 ```
 
-<br/>
+<br>
 
 ### 🎁 잘 설계된 Java VO 클래스 설명
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/c89d036e-885e-4b77-b161-2d838bd656e4" width="500px"></p>
 
-<br/>
+<br>
 
 ### 📌 강의 내용 요약 : 잘 설계된 VO 클래스(객체)
 #### Q1. 다른 객체에서 자신의 정보를 숨기고 클래스 외부에서 특정 정보에 대한 접근을 막는다는 것을 무엇이라고 합니까?
@@ -1119,23 +1119,23 @@ public class PersonVO {
 #### Q5. 객체가 가지고 있는 값 전체를 문자열 형태로 넘겨주기 위한 메서드를 무엇이라고 합니까?
 > - toString()
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 박매일 강사님 강의
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Title -->
 # ✅ Python
 
-<br/>
+<br>
 
 ### 📌 Parsing
 > - 파싱(parsing)은 구문 분석이라는 의미로 토큰으로 분석할 수 있음
@@ -1143,18 +1143,18 @@ public class PersonVO {
 > - 토큰으로 분석한 문법 구조로 파스트리(parse tree)를 생성할 수 있음
 > - Parsing 관련 추가적인 학습 필요
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Title -->
 # 🚀 CDM Project
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 Project Progress
@@ -1162,42 +1162,42 @@ public class PersonVO {
 > - 2024-01-09 CDM에 첫 이미지 학습 완료
 > - 추후 이미지 학습 과정에 대한 검토 진행 예정
 
-<br/>
+<br>
 
 ### 🎁 References
 > - [GitHub Link on Cavity Detection Model](https://github.com/Kim-src/Cavity-Detection-Model)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Title -->
 # 🚀 Toy Project
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 📌 Velog and LinkedIn
 > - 2024-01-08 작업했던 데이터 분석 toy project 결과 내용을 벨로그 및 링크드인에 업로드 함
 > - References란에 관련 링크를 작성함
 
-<br/>
+<br>
 
 ### 📌 Kaggle DataSets
 > - 캐글 사이트에서 데이터셋을 발췌하는 방법을 학습함
 > - 넷플릭스, 디즈니 데이터를 활용하여 Word Cloud 등을 제작함
 
-<br/>
+<br>
 
 ### 📌 TTA
 > - 한국정보통신기술협회(TTA)에서 제작한 정보통신용어 사전의 존재를 인지함
 > - 정보통신 관련 용어 학습 시 요긴하게 사용될 가능성이 있음
 
-<br/>
+<br>
 
 ### 🎁 References
 > - [GitHub Link on Toy-PJT](https://github.com/Kim-src/Stock-Information)
@@ -1206,13 +1206,13 @@ public class PersonVO {
 > - [Kaggle DataSets](https://www.kaggle.com/datasets?topic=trendingDataset)
 > - [TTA Dictionary](http://word.tta.or.kr/main.do)
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 8, 2024</p>
@@ -1220,26 +1220,26 @@ public class PersonVO {
 <!-- Title -->
 # ✅ Python
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 🔔 데이터 분석 : 라이브러리 활용
 > #### 1. 웹 데이터 분석 시 활용되는 BeautifulSoup 및 Pandas 라이브러리의 장단점 비교  
 > #### 2. 라이브러리 비교 테스트 한 결과를 깃허브에 연동 시도  
 
-<br/>
+<br>
 
 ### 📌 BeautifulSoup
 > #### ⭕ 장점 : Parsing 기능으로 DB 내에서 추출하는 데이터를 세부적으로 선택할 수 있음  
 > #### ❌ 단점 : 데이터 시각화가 어려우며 추출하려는 데이터를 print 구문에 일일이 입력해야 된다는 번거로움이 있음  
 
-<br/>
+<br>
 
 ### 📌 Pandas
 > #### ⭕ 장점 : DB 내 모든 column에 대한 내용을 간편하게 발췌하여 데이터를 table로 시각화 할 수 있음  
 > #### ❌ 단점 : Parsing 기능이 없기(?) 때문에 HTML 코드가 잘 구분되어 있지 않은 웹 페이지의 경우 데이터 추출이 온전하게 되지 않음  
 
-<br/>
+<br>
 
 ### 🚀 GitHub 연동
 > - "Google Colab 내 Python code" 및 "GitHub repository" 연동 실패  
@@ -1247,19 +1247,19 @@ public class PersonVO {
 > - 결국 Google Colab 파일 탭에서 "GitHub에 사본 저장" 기능을 사용하여 GitHub "Stock" repository에 내용을 업로드하였음  
 > - 추후 Python toy-project 시 GitHub 연동에 재도전할 예정임  
 
-<br/>
+<br>
 
 ### 🎁 References
 > - [Python을 활용한 데이터 분석 Toy-PJT](https://github.com/Kim-src/Stock-Information)  
 > - FastCampus Selena 강사님 강의  
 
-<br/>
+<br>
 
 ***
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 7, 2024</p>
@@ -1267,7 +1267,7 @@ public class PersonVO {
 <!-- Title -->
 # ✅ Java
 
-<br/>
+<br>
 
 <!-- Contents -->
 ### 📌 강의 내용 요약 : 객체에 접근하는 권한 이해하기  
@@ -1291,14 +1291,14 @@ public class PersonVO {
 #### Q6. Package를 현재 클래스에 포함시킬 때 필요한 명령어는 무엇입니까?
 > - import  
 
-<br/>
+<br>
 
 ### 🎁 References
 > - FastCampus 박매일 강사님 강의  
 
-<br/>
+<br>
 
 ***
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>

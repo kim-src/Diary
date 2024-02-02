@@ -9,7 +9,26 @@
 <!-- Contents -->
 <!-- References -->
 
-2
+<!-- Update Date -->
+#### <p align="right">Date : February 2, 2024</p>
+
+<!-- Title -->
+# ✅️ Spring
+
+<br/>
+
+<!-- Contents -->
+### 🔔 웹 개발 : 도서 대여 고객 관리 웹
+### 📌 프로젝트 정리한 내용 정리
+> - [Book Rental Service 웹 GitHub 링크](https://github.com/Kim-src/Book-Rental-Service)
+
+<br/>
+
+***
+
+<br/>
+<br/>
+<br/>
 
 1
 

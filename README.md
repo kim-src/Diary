@@ -93,6 +93,11 @@
 
 <br>
 
+### 🎁 References
+> - [유튜브 수코딩 님의 HTML/CSS 기초 강의](https://www.youtube.com/playlist?list=PL-eeIUD86IjQuP9iDbQn_1eMHlPB_qdgY)
+
+<br>
+
 ***
 
 <br>
@@ -220,15 +225,26 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 <br>
 
 <!-- Title -->
-# ✅ New Information
+# ✅ 국가 무료 강의 사이트
 
 <br>
 
 <!-- Contents -->
-### 🔔 국가 무료 강의 사이트
-### 📌 e-Korea Tech 강의실
+### 🔔 e-Korea Tech 강의실
 > - [e-Korea Tech 링크](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&amp;amp;m2=course_detail%25&amp;amp;course_id=222911%25&m2=course_list%25&startCount=0%25&filter_list=sort%3Dcreation_day%2FDESC%25)
 > - (첨언) 왜 무료인지 모를 정도인 다양한 콘텐츠의 강의들..
+
+<br>
+
+<!-- Title -->
+# ✅ Next.js
+
+<br>
+
+<!-- Contents -->
+### 🔔 Next.js의 수준
+> - HTML/CSS → JavaScript → React → Next.js
+> - Next.js를 이용하여 최신 웹 사이트 구현 가능
 
 <br>
 
@@ -283,8 +299,16 @@ DB 관리 툴
 
 <!-- Contents -->
 ### 🔔 유시온 님 글
-### 📌 2024년 목표와 관련된 만다라트 표
+### 📌 [2024년 목표와 관련된 만다라트 표](https://www.linkedin.com/in/yusion/)
 <p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/ba663331-89b4-4a7c-a9c6-ddeac7f5c755" width="500px"></p>
+
+<br>
+
+***
+
+<br>
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : January 25, 2024</p>
@@ -425,7 +449,7 @@ DB 관리 툴
 <br>
 
 <!-- Title -->
-# ✅ New Information
+# ✅ 개인 프로젝트 기획
 
 <br>
 
@@ -461,7 +485,7 @@ DB 관리 툴
 <br>
 
 <!-- Title -->
-# ✅ New Information
+# ✅ 개발 직군 석사과정 조사
 
 <br>
 

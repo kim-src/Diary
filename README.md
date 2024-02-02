@@ -39,6 +39,14 @@
 <br>
 
 <!-- Contents -->
+### 🔔 Basic Extensions of VS Code
+
+<br>
+
+### 📌 Material Theme
+> - VS Code의 전체적인 색 테마 설정
+> - ex) Material Theme Darker High Contrast 테마
+> - <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/eb6b91e6-bc67-4d21-8db3-1f09097916d8" width="500px"></p>
 
 <br>
 

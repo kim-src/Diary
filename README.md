@@ -76,7 +76,11 @@
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/ac34da05-627c-4607-931c-559f09fa3364" width="500px"></p>
 
 ### 📌 Bracket Pair Colorizer 2
-<p align="center"><img src="" width="500px"></p>
+> - 괄호의 색상을 다르게 표기하여 단순 에러를 최소화할 수 있는 기능
+> - 현재 VS Code에서 기본적으로 제공되기 때문에 설정에서 ON/OFF 가능
+> - Extensions 설명에서 "설정"이라는 단어를 클릭하면 TRUE/FALSE 선택 가능
+<p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/9059557e-d3a0-488f-994e-430e88e61671" width="500px"></p>
+
 <p align="center"><img src="" width="500px"></p>
 
 <br>

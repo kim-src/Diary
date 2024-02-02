@@ -75,6 +75,7 @@
 > - 웹 브라우저의 버전에 구애받지 않고 CSS 코드를 구현할 수 있는 기능
 <p align="center"><img src="https://github.com/Kim-src/Diary/assets/150884526/ac34da05-627c-4607-931c-559f09fa3364" width="500px"></p>
 
+### 📌 Bracket Pair Colorizer 2
 <p align="center"><img src="" width="500px"></p>
 <p align="center"><img src="" width="500px"></p>
 

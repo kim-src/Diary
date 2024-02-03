@@ -281,34 +281,46 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 
 ### 🔔 DB 관리 방법
 ### 📌 Relational Database
-> - 표에 속성을 부여하고 인스턴스를 삽입시키는 전통적인 DB
+> - 표에 속성을 부여하고 인스턴스를 삽입시키는 전통적인 DB임
 > - Structured Query Language 문법이 적용됨
-> - 데이터 중복을 피하기 위해 정규화(다른 표로 분리)하여 저장함
+> - 데이터 중복을 피하기 위해 데이터를 정규화(다른 표로 분리)하여 저장함
 > - 그러므로 데이터 입출력에 대한 속도는 느리지만 정확도는 높음
 > - ACID Transaction 기능이 있어서 금전 거래 등 주요 거래에 사용됨
 > - DBMS 종류 : MySQL, PostgreSQL, SQLite, MS SQL Server, MariaDB, ORACLE
 ### 📌 Document Database
-> - Relational DB 구조보다 자유로운 방식의 DB
+> - Relational DB 구조보다 자유로운 방식의 DB임
 > - Collection 폴더 내부에 document 파일을 저장시킴
 > - Document 파일 내부에 JSON 형태로 데이터를 저장시킴
 > - JSON 형태는 Key-Value 데이터 형태와 비슷함
 > - 그런데 Key-Value만 연결된다면 document마다 데이터 구조가 상이해도 됨
-> - 데이터 중복 제거를 하지 않기에 정규화하지 않음
+> - 데이터 중복 제거를 하지 않기에 데이터를 정규화하지 않음
 > - 그래서 데이터 입출력 문법이 보다 단순함
 > - 또한 데이터 분산 처리에 용이함
-> - 단, DB 간의 일관성이 부족하기에 RDB보다 정확도가 낮음
+> - DB 간의 일관성이 부족하기에 RDB보다 정확도가 낮음
 > - DB 활용 : SNS, 실시간 채팅, 게시판, 온라인 게임
 > - DBMS 종류 : MongoDB, CouchDB, Cloud Firestore
 ### 📌 Graph Database
-> - 데이터들끼리의 관계에 중점을 두는 DB
+> - 데이터들끼리의 관계에 중점을 두는 DB임
 > - Graph Query Language가 적용됨
 > - Node를 생성시키고 node 내부에 데이터를 저장시킨
 > - Node끼리 어떤 관계가 있는지 기입하는 기능이 있음
 > - 그래서 마인드맵과 비슷한 형태로 DB를 관리할 수 있음
 > - DB 활용 : 비행기 노선, SNS 친구 관계, 전염병 전염 모식도, 추천 서비스
-> - DBMS 종류 : neo4j, OrientDB, ArangoDB, Sparsity
+> - DBMS 종류 : Neo4j, OrientDB, ArangoDB, Sparsity
+### 📌 Column-Family Database
+> - 표 형태로 데이터를 관리하면서도 RDB의 구조보다 유연한 DB임
+> - Cassandra Query Language 등 각 DBMS에 맞는 언어가 적용됨
+> - 시간 기록을 쉽게 할 수 있기 때문에 시계열 자료 관리에 용이함
+> - 데이터 중복 제거를 하지 않기에 데이터를 정규화하지 않음
+> - 데이터 복제 및 분산에 능하기에 입출력해야 될 데이터가 많을 때 사용
+> - DB 간의 일관성이 부족하기에 RDB보다 정확도가 낮음
+> - 표 생성 후 표 내부에 row를 생성시킴
+> - 생성된 row 내부에 다시 표를 생성시킴
+> - 행 내부에 있는 표의 경우 컬럼이 달라도 상관 없음
+> - DB 활용 : Netflix 등의 시청 기록
+> - DBMS 종류 : Cassandra, APACHE HBASE, Google Cloud Bigtable
 ### 📌 Key-Value Database
-> - 메인 DB가 아닌 서브 DB
+> - 메인 DB가 아닌 서브 DB임
 > - DBMS 중 redis는 데이터를 1차적으로 RAM에 저장함
 > - 그래서 데이터 요청이 들어오면 데이터를 빠른 속도로 전달 가능함
 > - 한편 메인 DB 데이터 중 자주 사용되는 데이터만 redis에 복제시킴

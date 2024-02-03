@@ -340,7 +340,7 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 > - 한편 메인 DB 데이터 중 자주 사용되는 데이터만 redis에 복제시킴
 > - 관련 용어 : 캐싱, pub, sub, 스트리밍, 로그인 기
 ### 🎁 References
-> - [코딩애플 유튜브의 DB 선택 가이드](https://www.youtube.com/watch?v=ZVuHZ2Fjkl4&list=PLxJi-PaTyzwDlmPcNMYRvfrDBK0486DKO&index=2)
+> - [코딩애플 유튜브의 데이터베이스 선택 가이드](https://www.youtube.com/watch?v=ZVuHZ2Fjkl4&list=PLxJi-PaTyzwDlmPcNMYRvfrDBK0486DKO&index=2)
 
 <br>
 

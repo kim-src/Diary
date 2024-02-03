@@ -279,7 +279,13 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 
 <br>
 
-### 🔔 DB 관리 방법
+<!-- Title -->
+# ✅ Database 종류
+
+<br>
+
+<!-- Contents -->
+### 🔔 데이터 관리 방법
 ### 📌 Relational Database
 > - 표에 속성을 부여하고 인스턴스를 삽입시키는 전통적인 DB임
 > - Structured Query Language 문법이 적용됨
@@ -317,8 +323,16 @@ SCIE 및 SCOPUS 등 국제논문을 작성하였고
 > - 표 생성 후 표 내부에 row를 생성시킴
 > - 생성된 row 내부에 다시 표를 생성시킴
 > - 행 내부에 있는 표의 경우 컬럼이 달라도 상관 없음
-> - DB 활용 : Netflix 등의 시청 기록
+> - DB 활용 : Netflix의 시청 기록 등 시계열 자료를 다루는 사용처
 > - DBMS 종류 : Cassandra, APACHE HBASE, Google Cloud Bigtable
+### 📌 Search Engine Database
+> - 검색용 인덱스를 보관하기 위한 DB임
+> - 일반적인 DB가 아닌 검색용 DB로 인덱스 보관 및 활용 용도로 이용됨
+> - 그래서 SE DB는 검색이 중요한 웹 개발 시 활용됨
+> - 인덱스는 데이터 검색을 빠르게 할 수 있도록 돕기 위한 지표임
+> - 메인 DB의 데이터를 SE DB에 입력시키면 SE는 인덱스를 생성하고 보관함
+> - DB 활용 : 실시간 검색어 조회, 검색어 추천, 오타 교정
+> - DBMS 종류 : Elastic, Amazon Cloud Search, Google Cloud Search
 ### 📌 Key-Value Database
 > - 메인 DB가 아닌 서브 DB임
 > - DBMS 중 redis는 데이터를 1차적으로 RAM에 저장함

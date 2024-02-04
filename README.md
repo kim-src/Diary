@@ -10,6 +10,35 @@
 <!-- References -->
 
 <!-- Update Date -->
+#### <p align="right">Date : February 4, 2024</p>
+
+<!-- Title -->
+# ✅️ 개발 방향성 업데이트
+
+<br>
+
+<!-- Contents -->
+### 🔔 Spring 이해
+### 📌 Spring 이해 방법
+> - Spring.io에서 소개하는 tool 23가지를 프로젝트에 적용해보며 Spring 이해
+> - 깃허브 Spring Repository를 이용하여 tool을 이용한 프로젝트 코드 공유
+> - 예시 : Spring Framework가 적용된 프로젝트, Spring Security가 적용된 프로젝트
+### 📌 Spring 이해 방법 예시
+> - Spring Framework가 적용된 Book Rental Service Web
+> - Spring Boot가 적용된 Book Rental Service Web
+> - Spring Security가 적용된 OOO Web 등
+### 🎁 References
+> - [Spring.io 사이트](https://spring.io/projects)
+
+<br>
+
+***
+
+<br>
+<br>
+<br>
+
+<!-- Update Date -->
 #### <p align="right">Date : February 3, 2024</p>
 
 <!-- Title -->

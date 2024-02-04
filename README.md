@@ -19,6 +19,7 @@
 
 <!-- Contents -->
 ### 🔔 Spring 이해
+### 🎯 목적 : Spring 전문가로 성장
 ### 📌 Spring 이해 방법
 > - Spring.io에서 소개하는 tool 23가지를 프로젝트에 적용해보며 Spring 이해
 > - 깃허브 Spring Repository를 이용하여 tool을 이용한 프로젝트 코드 공유

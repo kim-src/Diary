@@ -3,7 +3,6 @@
 - ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
 <br>
-<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : February 4, 2024</p>

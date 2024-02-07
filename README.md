@@ -1,13 +1,9 @@
-<!-- 작성자 소개 -->
-### 🎁 작성자 Profile
-> - [작성자의 Velog Blog](https://velog.io/@kim-src/series)
-> - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<!-- 글 시작 -->
-<!-- Update Date -->
-<!-- Title -->
-<!-- Contents -->
-<!-- References -->
+<br>
+<br>
 
 <!-- Update Date -->
 #### <p align="right">Date : February 4, 2024</p>

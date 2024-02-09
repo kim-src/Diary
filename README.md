@@ -5,6 +5,24 @@
 <br>
 
 <!-- Update Date -->
+#### <p align="right">Date : February 9, 2024</p>
+
+<!-- Title -->
+# ✅️ 깃허브 블로그 생성 프로젝트
+
+<br>
+
+<!-- Contents -->
+### 🔔 깃허브 블로그 생성 참고자료
+> - 코드 학습 내용 복기 및 공유를 위한 블로그 필요
+> - 기존의 벨로그 블로그보다 개발 블로그에 더 잘 어울리는 깃허브 블로그 발견
+> - 기존의 Diary Repository에 작성하던 개발일지 등을 블로그에 업로드하면 좋다고 생각
+> - 더불어 기존 작성자의 부수입원이던 구글 애드센스에 새로운 수익 파이프라인 구축
+[깃허브 블로그 생성 참고자료 1](https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(1)/)
+[깃허브 블로그 생성 참고자료 2](https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(2)/)
+
+
+<!-- Update Date -->
 #### <p align="right">Date : February 4, 2024</p>
 
 <!-- Title -->

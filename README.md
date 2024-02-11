@@ -20,6 +20,7 @@
 > - 더불어 기존 작성자의 부수입원이던 구글 애드센스에 새로운 수익 파이프라인 구축
 > - [깃허브 블로그 생성 참고자료 1](https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(1)/)
 > - [깃허브 블로그 생성 참고자료 2](https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(2)/)
+> - [깃허브 블로그 생성 참고자료 2](https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(3)/)
 
 
 <!-- Update Date -->
